@@ -25,6 +25,34 @@
             flex-shrink: 0;
             width: 25%;
         }
+
+        .arrow-container {
+            display: flex;
+            align-items: center;
+            margin-top: -100px; /* Ajusta este valor para cambiar la posición vertical */
+        }
+        .arrow-body {
+            width: 80px; /* Ajusta el ancho de la cola */
+            height: 60px; /* Ajusta la altura de la cola */
+            background-color: black; /* Color de la cola */
+        }
+        .arrow-head {
+            display: inline-block;
+            width: 0;
+            height: 0;
+            border-top: 80px solid transparent;
+            border-bottom: 80px solid transparent;
+            border-left: 70px solid black; /* Color del triángulo */
+        }
+
+        .img-normalizada {
+            max-width: 180%;
+            max-height: 350px; /* Ajusta esta altura según tus necesidades */
+            object-fit: cover; /* Esto asegura que la imagen se escale y recorte proporcionalmente */
+            width: auto;
+            height: auto;
+        }
+
     </style>
 </head>
 <body class="bg-gray-100">
@@ -48,16 +76,54 @@
                 <h2 class="text-2xl font-semibold mb-4">NOBLEX - HISENSE - SHARP - SANYO - JVC - ILO - PHILIPS</h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/nohis/nohis_the_one.png" alt="NOHIS" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/nohis/nohis_the_one.png" alt="NOHIS" class="img-normalizada">
                         <p class="mt-2 text-center">NOHIS</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/nohis/sharp.jpg" alt="Sharp" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/nohis/sharp.jpg" alt="Sharp" class="img-normalizada">
                         <p class="mt-2 text-center">711</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/nohis/1690.png" alt="1690" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/nohis/1690.png" alt="1690" class="img-normalizada">
                         <p class="mt-2 text-center">1690</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
+
+            <!-- CASOS PARTICULARES -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4">CASO PARTICULAR CON CONTROL *NOBLEX*</h2>
+                <h4 class="text-2xl font-semibold mb-4" style="font-family: Arial, sans-serif; font-size: 15px;">
+                    EN CASO DE POSEER UNO DE LOS CONTROLES DE LA IZQUIERDA, SE LO PUEDE REEMPLAZAR 
+                    POR CUALQUIER CONTROL DE LA DERECHA, PERO NO SIEMPRE ES RECOMENDABLE CAMBIARLO POR EL MISMO CONTROL, YA QUE AUNQUE 
+                    EL FORMATO PAREZCA EL MISMO, NO SIEMPRE FUNCIONAN ENTRE SI. SIN EMBARGO, LOS CONTROLES DE LA DERECHA, FUNCIONAN SIN PROBLEMA
+                    CON LOS QUE APARECEN A LA IZQUIERDA SIN  IMPORTAR CUAL.
+                </h4>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="cr_sources/nohis_alt/784.png" alt="784" class="img-normalizada">
+                        <p class="mt-2 text-center">784</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="cr_sources/nohis_alt/1174.png" alt="1174" class="img-normalizada">
+                        <p class="mt-2 text-center">1174</p>
+                    </div>
+
+                    <!-- ACA VA LA FLECHA-->
+                    <div class="arrow-container">
+                        <div class="arrow-body"></div>
+                        <div class="arrow-head"></div>
+                    </div>
+                    <!--fin de flecha-->
+
+                    <div class="item p-2">
+                        <img src="cr_sources/nohis/nohis_the_one.png" alt="NOHIS" class="img-normalizada">
+                        <p class="mt-2 text-center">NOHIS</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="cr_sources/nohis/sharp.jpg" alt="711" class="img-normalizada">
+                        <p class="mt-2 text-center">711</p>
                     </div>
                     <!-- Más controles -->
                 </div>
@@ -68,11 +134,11 @@
                 <h2 class="text-2xl font-semibold mb-4">NOBLEX </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/NOBLEX/774.png" alt="774" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/NOBLEX/774.png" alt="774" class="img-normalizada">
                         <p class="mt-2 text-center">774</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/NOBLEX/774_FORMATO2.png" alt="OTRO FORMATO" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/NOBLEX/774_FORMATO2.png" alt="OTRO FORMATO" class="img-normalizada">
                         <p class="mt-2 text-center">OTRO FORMATO</p>
                     </div>
                     <!-- Más controles -->
@@ -84,11 +150,11 @@
                 <h2 class="text-2xl font-semibold mb-4">KEN BROWN</h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/ken_b/control-remoto-ken-brown-637.png" alt="637" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/ken_b/control-remoto-ken-brown-637.png" alt="637" class="img-normalizada">
                         <p class="mt-2 text-center">637</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/ken_b/control-remoto-ken-brown-638.png" alt="638" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/ken_b/control-remoto-ken-brown-638.png" alt="638" class="img-normalizada">
                         <p class="mt-2 text-center">638</p>
                     </div>
                     <!-- Más controles -->
@@ -100,11 +166,11 @@
                 <h2 class="text-2xl font-semibold mb-4">SKYWORTH</h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/skyworth/1507-scaled-1-500x500.jpg.png" alt="1507" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/skyworth/1507-scaled-1-500x500.jpg.png" alt="1507" class="img-normalizada">
                         <p class="mt-2 text-center">1507</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/skyworth/control-remoto-sky-1212-500x500.jpg.png" alt="1212" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/skyworth/control-remoto-sky-1212-500x500.jpg.png" alt="1212" class="img-normalizada">
                         <p class="mt-2 text-center">1212</p>
                     </div>
                     <!-- Más controles -->
@@ -116,35 +182,35 @@
                 <h2 class="text-2xl font-semibold mb-4">PHILIPS</h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/Philips/689.png" alt="689" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/Philips/689.png" alt="689" class="img-normalizada">
                         <p class="mt-2 text-center">689</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/Philips/691.png" alt="691" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/Philips/691.png" alt="691" class="img-normalizada">
                         <p class="mt-2 text-center">691</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/Philips/692.png" alt="692" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/Philips/692.png" alt="692" class="img-normalizada">
                         <p class="mt-2 text-center">692</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/Philips/PHILIPS_NET_ABAJO.png" alt="69X" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/Philips/PHILIPS_NET_ABAJO.png" alt="69X" class="img-normalizada">
                         <p class="mt-2 text-center">69X</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/Philips/JH501.png" alt="JH501" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/Philips/JH501.png" alt="JH501" class="img-normalizada">
                         <p class="mt-2 text-center">JH501</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/Philips/1677.png" alt="1677" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/Philips/1677.png" alt="1677" class="img-normalizada">
                         <p class="mt-2 text-center">1677</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/Philips/1747.png" alt="1747" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/Philips/1747.png" alt="1747" class="img-normalizada">
                         <p class="mt-2 text-center">1747</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/Philips/ROMBO_NETFLIX_SOLO.png" alt="ROMBO NET " class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/Philips/ROMBO_NETFLIX_SOLO.png" alt="ROMBO NET " class="img-normalizada">
                         <p class="mt-2 text-center">ROMBO NET</p>
                     </div>
                     <!-- Más controles -->
@@ -157,11 +223,11 @@
                 <h2 class="text-2xl font-semibold mb-4">PHILIPS</h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/PHILIPS_2/694.png" alt="694" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/PHILIPS_2/694.png" alt="694" class="img-normalizada">
                         <p class="mt-2 text-center">694</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/PHILIPS_2/1577.png" alt="1577" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/PHILIPS_2/1577.png" alt="1577" class="img-normalizada">
                         <p class="mt-2 text-center">1577</p>
                     </div>
                     <!-- Más controles -->
@@ -174,11 +240,11 @@
                 <h2 class="text-2xl font-semibold mb-4">PHILIPS TUBO </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/PHILIPS_TUBO/556.png" alt="556" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/PHILIPS_TUBO/556.png" alt="556" class="img-normalizada">
                         <p class="mt-2 text-center">556</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/PHILIPS_TUBO/557.png" alt="557" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/PHILIPS_TUBO/557.png" alt="557" class="img-normalizada">
                         <p class="mt-2 text-center">557</p>
                     </div>
                     <!-- Más controles -->
@@ -190,11 +256,11 @@
                 <h2 class="text-2xl font-semibold mb-4">KANJI - SAMSUNG </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/samsung-kanji/1444.png" alt="Samsung" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/samsung-kanji/1444.png" alt="Samsung" class="img-normalizada">
                         <p class="mt-2 text-center">1444</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/samsung-kanji/1365.png" alt="Kanji" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/samsung-kanji/1365.png" alt="Kanji" class="img-normalizada">
                         <p class="mt-2 text-center">1365</p>
                     </div>
                     <!-- Más controles -->
@@ -207,15 +273,19 @@
                 <h2 class="text-2xl font-semibold mb-4"> SAMSUNG </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/SAMSUNG/704.png" alt="704" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/SAMSUNG/704.png" alt="704" class="img-normalizada">
                         <p class="mt-2 text-center">704</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/SAMSUNG/705.png" alt="705" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/SAMSUNG/705.png" alt="705" class="img-normalizada">
                         <p class="mt-2 text-center">705</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/SAMSUNG/706.png" alt="706" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/SAMSUNG/705_recto.png" alt="705_recto_solar" class="img-normalizada">
+                        <p class="mt-2 text-center">705_recto_solar</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="cr_sources/SAMSUNG/706.png" alt="706" class="img-normalizada">
                         <p class="mt-2 text-center">706</p>
                     </div>
                     <!-- Más controles -->
@@ -228,15 +298,15 @@
                 <h2 class="text-2xl font-semibold mb-4"> RCA - TCL - HITACHI - ADMIRAL </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/RCA-TCL-HITACHI/1211.png" alt="1211" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/RCA-TCL-HITACHI/1211.png" alt="1211" class="img-normalizada">
                         <p class="mt-2 text-center">1211</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/RCA-TCL-HITACHI/700.png" alt="700" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/RCA-TCL-HITACHI/700.png" alt="700" class="img-normalizada">
                         <p class="mt-2 text-center">700</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/RCA-TCL-HITACHI/rca_tcl_admiral.png" alt="another" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/RCA-TCL-HITACHI/rca_tcl_admiral.png" alt="another" class="img-normalizada">
                         <p class="mt-2 text-center">-</p>
                     </div>
                     <!-- Más controles -->
@@ -249,15 +319,15 @@
                 <h2 class="text-2xl font-semibold mb-4"> JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/723.png" alt="723" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/723.png" alt="723" class="img-normalizada">
                         <p class="mt-2 text-center">723</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/726.png" alt="726" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/726.png" alt="726" class="img-normalizada">
                         <p class="mt-2 text-center">726</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/680.png" alt="680" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/680.png" alt="680" class="img-normalizada">
                         <p class="mt-2 text-center">680</p>
                     </div>
                     <!-- Más controles -->
@@ -270,11 +340,11 @@
                 <h2 class="text-2xl font-semibold mb-4"> RCA </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/RCA/661.png" alt="661" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/RCA/661.png" alt="661" class="img-normalizada">
                         <p class="mt-2 text-center">661</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/RCA/662.png" alt="662" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/RCA/662.png" alt="662" class="img-normalizada">
                         <p class="mt-2 text-center">662</p>
                     </div>
                     <!-- Más controles -->
@@ -287,11 +357,11 @@
                 <h2 class="text-2xl font-semibold mb-4"> ADMIRAL -  KEN BROWN - NOBLEX - SANYO </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1505.png" alt="1505" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1505.png" alt="1505" class="img-normalizada">
                         <p class="mt-2 text-center">1505</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1506.png" alt="1506" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1506.png" alt="1506" class="img-normalizada">
                         <p class="mt-2 text-center">1506</p>
                     </div>
                     <!-- Más controles -->
@@ -304,11 +374,11 @@
                 <h2 class="text-2xl font-semibold mb-4"> TELEFUNKEN - BGH - TOP HOUSE - SMART LIFE  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/TELEFUNKEN-BGH/725_1.png" alt="725" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/TELEFUNKEN-BGH/725_1.png" alt="725" class="img-normalizada">
                         <p class="mt-2 text-center">725</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/TELEFUNKEN-BGH/725_2.png" alt="725" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/TELEFUNKEN-BGH/725_2.png" alt="725" class="img-normalizada">
                         <p class="mt-2 text-center">725</p>
                     </div>
                     <!-- Más controles -->
@@ -321,11 +391,11 @@
                 <h2 class="text-2xl font-semibold mb-4"> SONY  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/SONY/714.png" alt="714" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/SONY/714.png" alt="714" class="img-normalizada">
                         <p class="mt-2 text-center">714</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/SONY/1217.png" alt="1217" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/SONY/1217.png" alt="1217" class="img-normalizada">
                         <p class="mt-2 text-center">1217</p>
                     </div>
                     <!-- Más controles -->
@@ -339,19 +409,19 @@
                 <h2 class="text-2xl font-semibold mb-4"> DIRECTV  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/DIRECTV/VIEJO_CORTO.png" alt="DIRECTV" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/DIRECTV/VIEJO_CORTO.png" alt="DIRECTV" class="img-normalizada">
                         <p class="mt-2 text-center">CORTO_V</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/DIRECTV/NUEVO_CORTO.png" alt="DIRECTV" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/DIRECTV/NUEVO_CORTO.png" alt="DIRECTV" class="img-normalizada">
                         <p class="mt-2 text-center">CORTO_N</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/DIRECTV/VIEJO_GRANDE.png" alt="DIRECTV" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/DIRECTV/VIEJO_GRANDE.png" alt="DIRECTV" class="img-normalizada">
                         <p class="mt-2 text-center">GRANDE_V</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/DIRECTV/TODOS_EN_UNO.png" alt="DIRECTV" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/DIRECTV/TODOS_EN_UNO.png" alt="DIRECTV" class="img-normalizada">
                         <p class="mt-2 text-center">TODOS</p>
                     </div>
                     <!-- Más controles -->
@@ -364,11 +434,11 @@
                 <h2 class="text-2xl font-semibold mb-4"> PANASONIC  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/PANASONIC/684.png" alt="684" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/PANASONIC/684.png" alt="684" class="img-normalizada">
                         <p class="mt-2 text-center">684</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/PANASONIC/PANASONIC.png" alt="PANASONIC" class="block w-full h-auto rounded shadow-md">
+                        <img src="cr_sources/PANASONIC/PANASONIC.png" alt="PANASONIC" class="img-normalizada">
                         <p class="mt-2 text-center">PANASONIC</p>
                     </div>
                     <!-- Más controles -->
