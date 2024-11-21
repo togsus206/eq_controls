@@ -1,0 +1,64 @@
+
+
+<!-- Nueva barra de navegación -->
+<div class="relative bg-blue-500 text-white py-4 mb-8 rounded-lg shadow-lg">
+    <!-- Contenedor con Scroll -->
+    <div id="nav-container" class="overflow-x-auto flex space-x-4 px-12 relative">
+        <ul class="flex space-x-4">
+            <li><a href="admiral.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">ADMIRAL</a></li>
+            <li><a href="bgh.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">BGH</a></li>
+            <li><a href="daewoo.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">DAEWOO</a></li>
+            <li><a href="direc-tv.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">DIREC-TV</a></li>
+            <li><a href="enova.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">ENOVA</a></li>
+            <li><a href="hitachi.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">HITACHI</a></li>
+            <li><a href="hisense.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">HISENSE</a></li>
+            <li><a href="ilo.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">ILO</a></li>
+            <li><a href="jvc.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">JVC</a></li>
+            <li><a href="kanji.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">KANJI</a></li>
+            <li><a href="ken-brown.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">KEN BROWN</a></li>
+            <li><a href="lg.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">LG</a></li>
+            <li><a href="noblex.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">NOBLEX</a></li>
+            <li><a href="panasonic.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">PANASONIC</a></li>
+            <li><a href="philco.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">PHILCO</a></li>
+            <li><a href="philips.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">PHILIPS</a></li>
+            <li><a href="rca.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">RCA</a></li>
+            <li><a href="samsung.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">SAMSUNG</a></li>
+            <li><a href="sanyo.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">SANYO</a></li>
+            <li><a href="sharp.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">SHARP</a></li>
+            <li><a href="skyworth.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">SKYWORTH</a></li>
+            <li><a href="sub_pages_sources/sony.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">SONY</a></li>
+            <li><a href="talent.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">TALENT</a></li>
+            <li><a href="tcl.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">TCL</a></li>
+            <li><a href="telefunken.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">TELEFUNKEN</a></li>
+            <li><a href="tonomac.php" class="hover:underline rounded-full px-4 py-2 text-black font-bold text-xl">TONOMAC</a></li>
+        </ul>
+    </div>
+
+    <!-- Zonas para activar el scroll -->
+    <div 
+        class="absolute left-0 top-0 h-full w-12 z-10 bg-gradient-to-r from-black opacity-10" 
+        onmouseenter="startScroll(-1)" onmouseleave="stopScroll()"></div>
+    <div 
+        class="absolute right-0 top-0 h-full w-12 z-10 bg-gradient-to-l from-black opacity-10" 
+        onmouseenter="startScroll(1)" onmouseleave="stopScroll()"></div>
+</div>
+
+
+
+
+
+<!--Script para el deslizamiento de la barra superior -->
+    <script>
+        let scrollInterval;
+
+        function startScroll(direction) {
+            const navContainer = document.getElementById('nav-container');
+            scrollInterval = setInterval(() => {
+                navContainer.scrollBy({ left: direction * 5 });
+            }, 20); // Ajusta la velocidad
+        }
+
+        function stopScroll() {
+            clearInterval(scrollInterval);
+        }
+    </script>
