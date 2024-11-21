@@ -13,7 +13,7 @@ body {
             height: 8px;
         }
         .horizontal-scroll::-webkit-scrollbar-thumb {
-            background-color: #3415be;
+            background-color: #15cae2;
             border-radius: 10px;
         }
         .horizontal-scroll::-webkit-scrollbar-thumb:hover {
@@ -66,4 +66,114 @@ body {
             border-radius: 8px; /* Bordes redondeados */
             display: inline-block;
         }
+
+
+        nav ul {
+            list-style-type: none; /* Quita los puntos de la lista */
+            margin: 0;
+            padding: 0;
+        }
+        
+        nav ul li {
+            display: inline; /* Hace que los elementos de la lista estén en línea */
+        }
+        
+        nav ul li a {
+            text-decoration: none; /* Elimina el subrayado */
+            color: white; /* Color del texto */
+            padding: 8px 16px; /* Espaciado dentro de los enlaces */
+            border-radius: 4px; /* Bordes redondeados */
+        }
+        
+        nav ul li a:hover {
+            background-color: #05f8f8; /* Color azul más oscuro al pasar el mouse */
+        }
+
+
+            /* Asegurarse de que los enlaces no se rompan en varias líneas */
+        #nav-container ul li a {
+            display: inline-block; /* Asegura que cada enlace ocupe el espacio adecuado */
+            white-space: nowrap;  /* Evita que el texto se divida en varias líneas */
+            overflow: hidden;     /* Evita que el texto se desborde */
+            text-overflow: ellipsis; /* Muestra '...' si el texto es demasiado largo */
+        }
+
+        /* Establecer que el contenedor tenga desplazamiento horizontal cuando sea necesario */
+        #nav-container {
+            overflow-x: auto;  /* Permite desplazamiento horizontal */
+            -webkit-overflow-scrolling: touch;  /* Mejora el desplazamiento en dispositivos táctiles */
+            padding: 0;  /* Elimina el relleno que podría estar afectando el tamaño */
+        }
+
+
+
+
+        /* Contenedor principal de navegación */
+        #nav-container {
+            border-radius: 50px;
+            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1); /* Sombra suave */
+            background: linear-gradient(to right, #0077b6, #00b4d8); /* Degradado */
+            padding: 10px 20px; /* Espaciado para un toque más limpio */
+            transition: all 0.3s ease; /* Transición suave para cuando el usuario interactúa */
+        }
+
+        /* Efecto al hacer hover sobre los enlaces */
+        #nav-container a {
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        /* Efecto de hover para enlaces */
+        #nav-container a:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+            transform: scale(1.05); /* Escala un poco el enlace */
+            border-radius: 10px;
+        }
+
+        /* Barra lateral para el scroll (sombra) */
+        #nav-container div {
+            border-radius: 10px;
+            background: rgba(0, 0, 0, 0.2); /* Sombra sutil */
+            box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+            transition: opacity 0.3s ease;
+        }
+
+        /* Barras de desplazamiento (cuando el mouse pasa) */
+        #nav-container div:hover {
+            opacity: 0.3;
+        }
+
+        /* Asegurar que los enlaces no se desborden */
+        #nav-container ul {
+            display: flex;
+            flex-wrap: nowrap;
+        }
+
+
+        
+        /* Modificar la barra de desplazamiento */
+        #nav-container::-webkit-scrollbar {
+            width: 5px; /* Establecer el ancho de la barra de desplazamiento */
+            height: 5px; /*  modificar la barra horizontal */
+        }
+
+        /* Modificar el fondo de la barra de desplazamiento */
+        #nav-container::-webkit-scrollbar-track {
+            background: #f1f1f1; /* Color de fondo de la pista del scrollbar */
+            border-radius: 10px; /* Bordes redondeados para la pista */
+        }
+
+        /* Modificar el control deslizante */
+        #nav-container::-webkit-scrollbar-thumb {
+            background: #08c7e0; /* Color del control deslizante */
+            border-radius: 10px; /* Bordes redondeados para el control */
+        }
+
+        /* Cambiar el color del control cuando el usuario pasa el mouse */
+        #nav-container::-webkit-scrollbar-thumb:hover {
+            background: #c5099c; /* Color cuando se pasa el mouse */
+        }
+
+
+
+        
         
