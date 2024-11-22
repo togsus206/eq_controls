@@ -6,7 +6,7 @@
     <title>Equivalencia de Controles Remotos</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles_2.css">
+    <link rel="stylesheet" href="../styles_2.css">
     <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
 
     
@@ -31,7 +31,26 @@
             <?php include 'navbar.html'; ?>
 
             
-            <!-- Admiral -->
+            <p>
+                NO COMPATIBLES!!!
+            </p>
+            <br/>
+            <!-- TELEFUNEN VS ENOVA  -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg"> TELEFUNEN VS ENOVA  </h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="cr_sources/TELEFUNKEN-BGH/725_1.png" alt="725" class="img-normalizada">
+                        <p class="mt-2 text-center">725</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="cr_sources/ENOVA/1364.png" alt="1364" class="img-normalizada">
+                        <p class="mt-2 text-center">1364</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
+
 
 
         <footer class="text-center mt-8">

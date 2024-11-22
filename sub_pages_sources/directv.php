@@ -6,7 +6,7 @@
     <title>Equivalencia de Controles Remotos</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles_2.css">
+    <link rel="stylesheet" href="../styles_2.css">
     <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
 
     
@@ -31,7 +31,30 @@
             <?php include 'navbar.html'; ?>
 
             
-            <!-- Admiral -->
+            <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX  -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg">DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX</h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="../cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/679.png" alt="679" class="img-normalizada">
+                        <p class="mt-2 text-center">679</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/718.png" alt="718" class="img-normalizada">
+                        <p class="mt-2 text-center">718</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/774.png" alt="774" class="img-normalizada">
+                        <p class="mt-2 text-center">774</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/NOBLEX/774_FORMATO2.png" alt="OTRO FORMATO" class="img-normalizada">
+                        <p class="mt-2 text-center">774(FORMATO ALTERNATIVO)</p>
+                    </div>
+
+                    <!-- Más controles -->
+                </div>
+            </div>
 
 
         <footer class="text-center mt-8">
