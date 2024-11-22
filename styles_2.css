@@ -187,7 +187,7 @@ body {
 
         /* Estilo del logo */
         .logo-boton img {
-            width: 80px; /* Tamaño ajustable */
+            width: 160px; /* Tamaño ajustable */
             height: auto;
             margin-right: 20px; /* Espaciado entre logo y navegación */
             cursor: pointer;
