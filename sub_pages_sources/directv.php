@@ -15,6 +15,9 @@
     <div class="container mx-auto px-4 py-8">
         <header class="text-center mb-8">
             <h1 class="text-3xl font-bold">EQUIVALENCIA DE CONTROLES REMOTOS DE TELEVISORES</h1>
+
+            <a href="../index.php" class="logo-boton">
+            <img src="../main_logo.png" alt="Inicio">
         </header>
 
         <p>SI UN TELEVISOR TENIA UN CONTROL DE UNA FILA, SE PUEDEN USAR LOS CONTROLES DE LA MISMA FILA COMO EQUIVALENTES.</p>
@@ -31,27 +34,26 @@
             <?php include '../navbar.html'; ?>
 
             
-            <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX  -->
+            <!-- DIRECTV  -->
             <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX</h2>
+                <h2 class="text-2xl font-semibold mb-4 custom-bg"> DIRECTV  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="../cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/679.png" alt="679" class="img-normalizada">
-                        <p class="mt-2 text-center">679</p>
+                        <img src="../cr_sources/DIRECTV/VIEJO_CORTO.png" alt="DIRECTV" class="img-normalizada">
+                        <p class="mt-2 text-center">CORTO VIEJO</p>
                     </div>
                     <div class="item p-2">
-                        <img src="../cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/718.png" alt="718" class="img-normalizada">
-                        <p class="mt-2 text-center">718</p>
+                        <img src="../cr_sources/DIRECTV/NUEVO_CORTO.png" alt="DIRECTV" class="img-normalizada">
+                        <p class="mt-2 text-center">CORTO NUEVO</p>
                     </div>
                     <div class="item p-2">
-                        <img src="../cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/774.png" alt="774" class="img-normalizada">
-                        <p class="mt-2 text-center">774</p>
+                        <img src="../cr_sources/DIRECTV/VIEJO_GRANDE.png" alt="DIRECTV" class="img-normalizada">
+                        <p class="mt-2 text-center">GRANDE VIEJO</p>
                     </div>
                     <div class="item p-2">
-                        <img src="../cr_sources/NOBLEX/774_FORMATO2.png" alt="OTRO FORMATO" class="img-normalizada">
-                        <p class="mt-2 text-center">774(FORMATO ALTERNATIVO)</p>
+                        <img src="../cr_sources/DIRECTV/TODOS_EN_UNO.png" alt="DIRECTV" class="img-normalizada">
+                        <p class="mt-2 text-center">TODOS</p>
                     </div>
-
                     <!-- Más controles -->
                 </div>
             </div>

@@ -176,4 +176,32 @@ body {
 
 
         
-        
+        /* Estilo para el encabezado */
+        .main-header {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            background-color: #f4f4f4; /* Cambia según tu diseño */
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo del logo */
+        .logo-boton img {
+            width: 80px; /* Tamaño ajustable */
+            height: auto;
+            margin-right: 20px; /* Espaciado entre logo y navegación */
+            cursor: pointer;
+        }
+
+        /* Ajusta la barra de navegación si es necesario */
+        .main-header nav {
+            flex-grow: 1; /* Ocupa el espacio restante del encabezado */
+        }
+
+
+
+        .navbar-item.selected {
+            background-color: #ce317a !important; /* Color de fondo para el seleccionado */
+            color: white !important;             /* Texto en blanco para mejor contraste */
+            border-radius: 8px;       /* Opcional: para redondear las esquinas */
+        }
