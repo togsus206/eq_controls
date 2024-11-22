@@ -6,7 +6,7 @@
     <title>Equivalencia de Controles Remotos</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles_2.css">
+    <link rel="stylesheet" href="../styles_2.css">
     <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
 
     
@@ -36,11 +36,11 @@
                 <h2 class="text-2xl font-semibold mb-4 custom-bg">LG MAGIC </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/LG_magic/lg_magic_classic.png" alt="LG MAGIC CLASSIC" class="img-normalizada">
+                        <img src="../cr_sources/LG_magic/lg_magic_classic.png" alt="LG MAGIC CLASSIC" class="img-normalizada">
                         <p class="mt-2 text-center">LG MAGIC CLASICO</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/LG_magic/lg_magic_nuevo.png" alt="LG MAGIC NUEVO" class="img-normalizada">
+                        <img src="../cr_sources/LG_magic/lg_magic_nuevo.png" alt="LG MAGIC NUEVO" class="img-normalizada">
                         <p class="mt-2 text-center">LG MAGIC NUEVO</p>
                     </div>
                     <!-- Más controles -->
@@ -52,11 +52,11 @@
                 <h2 class="text-2xl font-semibold mb-4 custom-bg">LG BOTON NETFLIX - AMAZON </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/LG_netflix_amazon/673.png" alt="673" class="img-normalizada">
+                        <img src="../cr_sources/LG_netflix_amazon/673.png" alt="673" class="img-normalizada">
                         <p class="mt-2 text-center">673</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/LG_netflix_amazon/675.png" alt="675" class="img-normalizada">
+                        <img src="../cr_sources/LG_netflix_amazon/675.png" alt="675" class="img-normalizada">
                         <p class="mt-2 text-center">675</p>
                     </div>
                     <!-- Más controles -->
@@ -69,11 +69,11 @@
                 <h2 class="text-2xl font-semibold mb-4 custom-bg">LG SMART </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/LG_smart/674.png" alt="674" class="img-normalizada">
+                        <img src="../cr_sources/LG_smart/674.png" alt="674" class="img-normalizada">
                         <p class="mt-2 text-center">674</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/LG_smart/674_2.png" alt="674-2" class="img-normalizada">
+                        <img src="../cr_sources/LG_smart/674_2.png" alt="674-2" class="img-normalizada">
                         <p class="mt-2 text-center">674</p>
                     </div>
                     <!-- Más controles -->
@@ -91,11 +91,11 @@
                 <h2 class="text-2xl font-semibold mb-4 custom-bg"> LG  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/LG/1369.png" alt="1369" class="img-normalizada">
+                        <img src="../cr_sources/LG/1369.png" alt="1369" class="img-normalizada">
                         <p class="mt-2 text-center">1369</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/LG/670.png" alt="670" class="img-normalizada">
+                        <img src="../cr_sources/LG/670.png" alt="670" class="img-normalizada">
                         <p class="mt-2 text-center">670</p>
                     </div>
                     <!-- Más controles -->

@@ -6,7 +6,7 @@
     <title>Equivalencia de Controles Remotos</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles_2.css">
+    <link rel="stylesheet" href="../styles_2.css">
     <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
 
     
@@ -31,7 +31,21 @@
             <?php include 'navbar.html'; ?>
 
             
-            <!-- Admiral -->
+            <!-- PANASONIC  -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg"> PANASONIC  </h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="cr_sources/PANASONIC/684.png" alt="684" class="img-normalizada">
+                        <p class="mt-2 text-center">684</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="cr_sources/PANASONIC/PANASONIC.png" alt="PANASONIC" class="img-normalizada">
+                        <p class="mt-2 text-center">PANASONIC</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
 
 
         <footer class="text-center mt-8">

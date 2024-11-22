@@ -6,7 +6,7 @@
     <title>Equivalencia de Controles Remotos</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles_2.css">
+    <link rel="stylesheet" href="../styles_2.css">
     <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
 
     
@@ -31,7 +31,79 @@
             <?php include 'navbar.html'; ?>
 
             
-            <!-- Admiral -->
+            <!-- PHILIPS -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg">PHILIPS</h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="../cr_sources/Philips/689.png" alt="689" class="img-normalizada">
+                        <p class="mt-2 text-center">689</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/Philips/691.png" alt="691" class="img-normalizada">
+                        <p class="mt-2 text-center">691</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/Philips/692.png" alt="692" class="img-normalizada">
+                        <p class="mt-2 text-center">692</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/Philips/PHILIPS_NET_ABAJO.png" alt="69X" class="img-normalizada">
+                        <p class="mt-2 text-center">69X</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/Philips/JH501.png" alt="JH501" class="img-normalizada">
+                        <p class="mt-2 text-center">JH501</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/Philips/1677.png" alt="1677" class="img-normalizada">
+                        <p class="mt-2 text-center">1677</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/Philips/1747.png" alt="1747" class="img-normalizada">
+                        <p class="mt-2 text-center">1747</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/Philips/ROMBO_NETFLIX_SOLO.png" alt="ROMBO NET " class="img-normalizada">
+                        <p class="mt-2 text-center">ROMBO NETFLIX</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
+
+
+            <!-- PHILIPS -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg">PHILIPS</h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="../cr_sources/PHILIPS_2/694.png" alt="694" class="img-normalizada">
+                        <p class="mt-2 text-center">694</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/PHILIPS_2/1577.png" alt="1577" class="img-normalizada">
+                        <p class="mt-2 text-center">1577</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
+            
+            
+            <!-- PHILIPS TUBO -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg">PHILIPS TUBO </h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="../cr_sources/PHILIPS_TUBO/556.png" alt="556" class="img-normalizada">
+                        <p class="mt-2 text-center">556</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/PHILIPS_TUBO/557.png" alt="557" class="img-normalizada">
+                        <p class="mt-2 text-center">557</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
 
 
         <footer class="text-center mt-8">

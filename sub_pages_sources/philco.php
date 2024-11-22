@@ -6,7 +6,7 @@
     <title>Equivalencia de Controles Remotos</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles_2.css">
+    <link rel="stylesheet" href="../styles_2.css">
     <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
 
     
@@ -31,7 +31,33 @@
             <?php include 'navbar.html'; ?>
 
             
-            <!-- Admiral -->
+            <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg"> JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN </h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="../cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/723.png" alt="723" class="img-normalizada">
+                        <p class="mt-2 text-center">723</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/726.png" alt="726" class="img-normalizada">
+                        <p class="mt-2 text-center">726</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/680.png" alt="680" class="img-normalizada">
+                        <p class="mt-2 text-center">680</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/BGH/606.png" alt="606" class="img-normalizada">
+                        <p class="mt-2 text-center">606</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/BGH/BGH_2.png" alt="Alternativo" class="img-normalizada">
+                        <p class="mt-2 text-center">Alternativo</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
 
 
         <footer class="text-center mt-8">

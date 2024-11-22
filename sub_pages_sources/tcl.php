@@ -6,7 +6,7 @@
     <title>Equivalencia de Controles Remotos</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles_2.css">
+    <link rel="stylesheet" href="../styles_2.css">
     <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
 
     
@@ -31,7 +31,41 @@
             <?php include 'navbar.html'; ?>
 
             
-            <!-- Admiral -->
+            <!-- RCA - TCL - HITACHI - ADMIRAL  -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg"> RCA - TCL - HITACHI - ADMIRAL </h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="../cr_sources/RCA-TCL-HITACHI/1211.png" alt="1211" class="img-normalizada">
+                        <p class="mt-2 text-center">1211</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/RCA-TCL-HITACHI/700.png" alt="700" class="img-normalizada">
+                        <p class="mt-2 text-center">700</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/RCA-TCL-HITACHI/rca_tcl_admiral.png" alt="another" class="img-normalizada">
+                        <p class="mt-2 text-center">LCD613</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
+
+            <!-- TCL  -->
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4 custom-bg"> TCL  </h2>
+                <div class="horizontal-scroll">
+                    <div class="item p-2">
+                        <img src="../cr_sources/TCL/720.png" alt="720" class="img-normalizada">
+                        <p class="mt-2 text-center">720</p>
+                    </div>
+                    <div class="item p-2">
+                        <img src="../cr_sources/TCL/720_alt.png" alt="720_ALT" class="img-normalizada">
+                        <p class="mt-2 text-center">ALTERNATIVO</p>
+                    </div>
+                    <!-- Más controles -->
+                </div>
+            </div>
 
 
         <footer class="text-center mt-8">

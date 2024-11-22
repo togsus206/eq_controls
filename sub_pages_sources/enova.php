@@ -31,9 +31,7 @@
             <?php include 'navbar.html'; ?>
 
             
-            <p>
-                NO COMPATIBLES!!!
-            </p>
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
             <!-- TELEFUNEN VS ENOVA  -->
             <div class="mb-8">

@@ -33,7 +33,7 @@
 
             <!-- NOHIS -->
             <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">NOBLEX - HISENSE - SHARP - SANYO - JVC - ILO - PHILIPS - BGH</h2>
+                <h2 class="text-2xl font-semibold mb-4 custom-bg">NOBLEX - HISENSE - SHARP - SANYO - JVC - ILO - BGH</h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
                         <img src="cr_sources/nohis/nohis_the_one.png" alt="NOHIS" class="img-normalizada">
@@ -320,7 +320,7 @@
 
             <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
             <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN </h2>
+                <h2 class="text-2xl font-semibold mb-4 custom-bg"> JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN</h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
                         <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/723.png" alt="723" class="img-normalizada">
