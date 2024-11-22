@@ -28,7 +28,7 @@
 
         <main>
 
-            <?php include 'navbar.html'; ?>
+            <?php include '../navbar.html'; ?>
 
             
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->

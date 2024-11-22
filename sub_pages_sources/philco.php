@@ -28,7 +28,7 @@
 
         <main>
 
-            <?php include 'navbar.html'; ?>
+            <?php include '../navbar.html'; ?>
 
             
             <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->

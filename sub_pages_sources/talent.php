@@ -28,7 +28,7 @@
 
         <main>
 
-            <?php include 'navbar.html'; ?>
+            <?php include '../navbar.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
@@ -37,11 +37,11 @@
                 <h2 class="text-2xl font-semibold mb-4 custom-bg"> IGUALITOS  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/skyworth/control-remoto-sky-1212-500x500.jpg.png" alt="1212" class="img-normalizada">
+                        <img src="../cr_sources/skyworth/control-remoto-sky-1212-500x500.jpg.png" alt="1212" class="img-normalizada">
                         <p class="mt-2 text-center">1212</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/RCA_ADMIRAL_TALENT/696.png" alt="696" class="img-normalizada">
+                        <img src="../cr_sources/RCA_ADMIRAL_TALENT/696.png" alt="696" class="img-normalizada">
                         <p class="mt-2 text-center">696</p>
                     </div>
                     <!-- Más controles -->

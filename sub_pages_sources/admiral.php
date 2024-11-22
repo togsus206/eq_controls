@@ -28,7 +28,7 @@
 
         <main>
 
-            <?php include 'navbar.html'; ?>
+            <?php include '../navbar.html'; ?>
 
             
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
@@ -68,27 +68,6 @@
                     <!-- Más controles -->
                 </div>
             </div>
-
-
-
-
-            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> ADMIRAL -  KEN BROWN - NOBLEX - SANYO </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1505.png" alt="1505" class="img-normalizada">
-                        <p class="mt-2 text-center">1505</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1506.png" alt="1506" class="img-normalizada">
-                        <p class="mt-2 text-center">1506</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
-
-
 
 
 

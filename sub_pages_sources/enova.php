@@ -28,7 +28,7 @@
 
         <main>
 
-            <?php include 'navbar.html'; ?>
+            <?php include '../navbar.html'; ?>
 
             
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
@@ -38,11 +38,11 @@
                 <h2 class="text-2xl font-semibold mb-4 custom-bg"> TELEFUNEN VS ENOVA  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/TELEFUNKEN-BGH/725_1.png" alt="725" class="img-normalizada">
+                        <img src="../cr_sources/TELEFUNKEN-BGH/725_1.png" alt="725" class="img-normalizada">
                         <p class="mt-2 text-center">725</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/ENOVA/1364.png" alt="1364" class="img-normalizada">
+                        <img src="../cr_sources/ENOVA/1364.png" alt="1364" class="img-normalizada">
                         <p class="mt-2 text-center">1364</p>
                     </div>
                     <!-- Más controles -->
