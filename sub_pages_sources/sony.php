@@ -6,7 +6,7 @@
     <title>Equivalencia de Controles Remotos</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="styles_2.css">
+    <link rel="stylesheet" href="../styles_2.css">
     <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
 
     
@@ -36,23 +36,23 @@
                 <h2 class="text-2xl font-semibold mb-4 custom-bg"> SONY  </h2>
                 <div class="horizontal-scroll">
                     <div class="item p-2">
-                        <img src="cr_sources/SONY/714.png" alt="714" class="img-normalizada">
+                        <img src="../cr_sources/SONY/714.png" alt="714" class="img-normalizada">
                         <p class="mt-2 text-center">714</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/SONY/715.png" alt="715" class="img-normalizada">
+                        <img src="../cr_sources/SONY/715.png" alt="715" class="img-normalizada">
                         <p class="mt-2 text-center">715</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/SONY/716.png" alt="716" class="img-normalizada">
+                        <img src="../cr_sources/SONY/716.png" alt="716" class="img-normalizada">
                         <p class="mt-2 text-center">716</p>
                     </div>
                     <div class="item p-2">
-                        <img src="cr_sources/SONY/1216.png" alt="1216" class="img-normalizada">
+                        <img src="../cr_sources/SONY/1216.png" alt="1216" class="img-normalizada">
                         <p class="mt-2 text-center">1216</p>
                     </div>    
                     <div class="item p-2">
-                        <img src="cr_sources/SONY/1217.png" alt="1217" class="img-normalizada">
+                        <img src="../cr_sources/SONY/1217.png" alt="1217" class="img-normalizada">
                         <p class="mt-2 text-center">1217</p>
                     </div>
                     <!-- Más controles -->
