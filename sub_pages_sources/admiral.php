@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
     <link rel="stylesheet" href="../styles_2.css">
-    <!-- <link rel="icon" type="image/png" href="ruta/al/icono.png"> -->
+    <?php include "../mini_logo.html"; ?>
 
     
 </head>
@@ -16,8 +16,7 @@
         <header class="text-center mb-8">
             <h1 class="text-3xl font-bold">EQUIVALENCIA DE CONTROLES REMOTOS DE TELEVISORES</h1>
 
-            <a href="../index.php" class="logo-boton">
-            <img src="../main_logo.png" alt="Inicio">
+            <?php include "../logo.html"; ?>
         </header>
 
         <p>SI UN TELEVISOR TENIA UN CONTROL DE UNA FILA, SE PUEDEN USAR LOS CONTROLES DE LA MISMA FILA COMO EQUIVALENTES.</p>
