@@ -35,30 +35,9 @@
 
             
             <!-- DIRECTV  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> DIRECTV  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/DIRECTV/VIEJO_CORTO.png" alt="DIRECTV" class="img-normalizada">
-                        <p class="mt-2 text-center">CORTO VIEJO</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/DIRECTV/NUEVO_CORTO.png" alt="DIRECTV" class="img-normalizada">
-                        <p class="mt-2 text-center">CORTO NUEVO</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/DIRECTV/VIEJO_GRANDE.png" alt="DIRECTV" class="img-normalizada">
-                        <p class="mt-2 text-center">GRANDE VIEJO</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/DIRECTV/TODOS_EN_UNO.png" alt="DIRECTV" class="img-normalizada">
-                        <p class="mt-2 text-center">TODOS</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
-
-
+            <?php include '../modules_sources/DIRECTV/DIRECTV.html'; ?>
+        </main>
+        
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
             <br/>
@@ -67,23 +46,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
 
 
 </body>

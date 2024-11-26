@@ -34,79 +34,24 @@
 
             
             <!-- LG MAGIC -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">LG MAGIC </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/LG_magic/lg_magic_classic.png" alt="LG MAGIC CLASSIC" class="img-normalizada">
-                        <p class="mt-2 text-center">LG MAGIC CLASICO</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/LG_magic/lg_magic_nuevo.png" alt="LG MAGIC NUEVO" class="img-normalizada">
-                        <p class="mt-2 text-center">LG MAGIC NUEVO</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/LG_magic/LG_magic.html'; ?>
+
 
             <!-- LG BOTON NETFLIX - AMAZON -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">LG BOTON NETFLIX - AMAZON </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/LG_netflix_amazon/673.png" alt="673" class="img-normalizada">
-                        <p class="mt-2 text-center">673</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/LG_netflix_amazon/675.png" alt="675" class="img-normalizada">
-                        <p class="mt-2 text-center">675</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/LG_netflix_amazon/LG_netflix_amazon.html'; ?>
 
             
             <!-- LG SMART -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">LG SMART </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/LG_smart/674.png" alt="674" class="img-normalizada">
-                        <p class="mt-2 text-center">674</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/LG_smart/674_2.png" alt="674-2" class="img-normalizada">
-                        <p class="mt-2 text-center">674</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/LG_smart/LG_smart.html'; ?>
 
 
-            <p>
-                NO COMPATIBLES!!!
-            </p>
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
             <!-- LG  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> LG  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/LG/1369.png" alt="1369" class="img-normalizada">
-                        <p class="mt-2 text-center">1369</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/LG/670.png" alt="670" class="img-normalizada">
-                        <p class="mt-2 text-center">670</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
-
-            
-
-
+            <?php include '../modules_sources/LG_2/LG_2.html'; ?>
+        </main>
+        
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
             <br/>
@@ -115,24 +60,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
-
 
 </body>
 </html>

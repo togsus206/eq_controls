@@ -34,22 +34,10 @@
 
             
             <!-- PANASONIC  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> PANASONIC  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/PANASONIC/684.png" alt="684" class="img-normalizada">
-                        <p class="mt-2 text-center">684</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/PANASONIC/PANASONIC.png" alt="PANASONIC" class="img-normalizada">
-                        <p class="mt-2 text-center">PANASONIC</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/PANASONIC/PANASONIC.html'; ?>
 
-
+        </main>
+        
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
             <br/>
@@ -58,24 +46,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
-
 
 </body>
 </html>

@@ -36,22 +36,9 @@
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
             <!-- TELEFUNEN VS ENOVA  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> TELEFUNEN VS ENOVA  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/TELEFUNKEN-BGH/725_1.png" alt="725" class="img-normalizada">
-                        <p class="mt-2 text-center">725</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/ENOVA/1364.png" alt="1364" class="img-normalizada">
-                        <p class="mt-2 text-center">1364</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/TELEFUNKEN_VS_ENOVA/TELEFUNKEN_VS_ENOVA.html'; ?>
 
-
+        </main>
 
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
@@ -61,23 +48,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
 
 
 </body>

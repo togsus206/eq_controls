@@ -35,20 +35,7 @@
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
             <!-- FORMATO IGUAL  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> IGUALITOS  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/skyworth/control-remoto-sky-1212-500x500.jpg.png" alt="1212" class="img-normalizada">
-                        <p class="mt-2 text-center">1212</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/RCA_ADMIRAL_TALENT/696.png" alt="696" class="img-normalizada">
-                        <p class="mt-2 text-center">696</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
 
 
         <footer class="text-center mt-8">
@@ -59,23 +46,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
 
 
 </body>

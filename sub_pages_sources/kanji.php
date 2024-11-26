@@ -35,23 +35,10 @@
 
             
             <!-- Kanji - Samsung -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">KANJI - SAMSUNG </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/samsung-kanji/1444.png" alt="Samsung" class="img-normalizada">
-                        <p class="mt-2 text-center">1444</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/samsung-kanji/1365.png" alt="Kanji" class="img-normalizada">
-                        <p class="mt-2 text-center">1365</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/samsung-kanji/samsung-kanji.html'; ?>
 
-
-
+        </main>
+                    
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
             <br/>
@@ -60,23 +47,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
 
 
 </body>

@@ -36,507 +36,86 @@
             <?php include 'navbar.html'; ?>
 
             <!-- NOHIS -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">NOBLEX - HISENSE - SHARP - SANYO - JVC - ILO - BGH</h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/nohis/nohis_the_one.png" alt="NOHIS" class="img-normalizada">
-                        <p class="mt-2 text-center">NOHIS</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/nohis/nohis_bien.png" alt="NOHIS-FLOW" class="img-normalizada">
-                        <p class="mt-2 text-center">1690</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/nohis/sharp.jpg" alt="Sharp" class="img-normalizada">
-                        <p class="mt-2 text-center">711</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/nohis/1690.png" alt="1690" class="img-normalizada">
-                        <p class="mt-2 text-center">1690</p>
-                    </div>
-
-                    <!-- Más controles -->
-                </div>
-            </div>
-
-            <!-- CASOS PARTICULARES -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">CASO PARTICULAR CON CONTROL *NOBLEX*</h2>
-                <h4 class="text-2xl font-semibold mb-4" style="font-family: Arial, sans-serif; font-size: 15px;">
-                    EN CASO DE POSEER UNO DE LOS CONTROLES DE LA IZQUIERDA, SE LO PUEDE REEMPLAZAR 
-                    POR CUALQUIER CONTROL DE LA DERECHA, PERO NO SIEMPRE ES RECOMENDABLE CAMBIARLO POR EL MISMO CONTROL, YA QUE AUNQUE 
-                    EL FORMATO PAREZCA EL MISMO, NO SIEMPRE FUNCIONAN ENTRE SI. SIN EMBARGO, LOS CONTROLES DE LA DERECHA, FUNCIONAN SIN PROBLEMA
-                    CON LOS QUE APARECEN A LA IZQUIERDA SIN  IMPORTAR CUAL.
-                </h4>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/nohis_alt/784.png" alt="784" class="img-normalizada">
-                        <p class="mt-2 text-center">784</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/nohis_alt/1174.png" alt="1174" class="img-normalizada">
-                        <p class="mt-2 text-center">1174</p>
-                    </div>
-
-                    <!-- ACA VA LA FLECHA-->
-                    <div class="arrow-container">
-                        <div class="arrow-body"></div>
-                        <div class="arrow-head"></div>
-                    </div>
-                    <!--fin de flecha-->
-
-                    <div class="item p-2">
-                        <img src="cr_sources/nohis/nohis_the_one.png" alt="NOHIS" class="img-normalizada">
-                        <p class="mt-2 text-center">NOHIS</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/nohis/sharp.jpg" alt="711" class="img-normalizada">
-                        <p class="mt-2 text-center">711</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
-
+            <?php include 'modules_sources/nohis/nohis.html'; ?>
 
             <!-- KEN BROWN -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">KEN BROWN</h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/ken_b/control-remoto-ken-brown-637.png" alt="637" class="img-normalizada">
-                        <p class="mt-2 text-center">637</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/ken_b/control-remoto-ken-brown-638.png" alt="638" class="img-normalizada">
-                        <p class="mt-2 text-center">638</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/ken_b/ken_b.html'; ?>
 
             <!-- SKYWORTH -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">SKYWORTH</h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/skyworth/1507-scaled-1-500x500.jpg.png" alt="1507" class="img-normalizada">
-                        <p class="mt-2 text-center">1507</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/skyworth/control-remoto-sky-1212-500x500.jpg.png" alt="1212" class="img-normalizada">
-                        <p class="mt-2 text-center">1212</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/skyworth/skyworth.html'; ?>
 
             <!-- PHILIPS -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">PHILIPS</h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/Philips/689.png" alt="689" class="img-normalizada">
-                        <p class="mt-2 text-center">689</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Philips/691.png" alt="691" class="img-normalizada">
-                        <p class="mt-2 text-center">691</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Philips/692.png" alt="692" class="img-normalizada">
-                        <p class="mt-2 text-center">692</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Philips/PHILIPS_NET_ABAJO.png" alt="69X" class="img-normalizada">
-                        <p class="mt-2 text-center">69X</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Philips/JH501.png" alt="JH501" class="img-normalizada">
-                        <p class="mt-2 text-center">JH501</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Philips/1677.png" alt="1677" class="img-normalizada">
-                        <p class="mt-2 text-center">1677</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Philips/1747.png" alt="1747" class="img-normalizada">
-                        <p class="mt-2 text-center">1747</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Philips/ROMBO_NETFLIX_SOLO.png" alt="ROMBO NET " class="img-normalizada">
-                        <p class="mt-2 text-center">ROMBO NETFLIX</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/Philips/Philips.html'; ?>
 
 
             <!-- PHILIPS -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">PHILIPS</h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/PHILIPS_2/694.png" alt="694" class="img-normalizada">
-                        <p class="mt-2 text-center">694</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/PHILIPS_2/1577.png" alt="1577" class="img-normalizada">
-                        <p class="mt-2 text-center">1577</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/PHILIPS_2/PHILIPS_2.html'; ?>
             
             
             <!-- PHILIPS TUBO -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">PHILIPS TUBO </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/PHILIPS_TUBO/556.png" alt="556" class="img-normalizada">
-                        <p class="mt-2 text-center">556</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/PHILIPS_TUBO/557.png" alt="557" class="img-normalizada">
-                        <p class="mt-2 text-center">557</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/PHILIPS_TUBO/PHILIPS_TUBO.html'; ?>
 
             <!-- Kanji - Samsung -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">KANJI - SAMSUNG </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/samsung-kanji/1444.png" alt="Samsung" class="img-normalizada">
-                        <p class="mt-2 text-center">1444</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/samsung-kanji/1365.png" alt="Kanji" class="img-normalizada">
-                        <p class="mt-2 text-center">1365</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
-
+            <?php include 'modules_sources/samsung-kanji/samsung-kanji.html'; ?>
 
             <!-- Samsung -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> SAMSUNG </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/SAMSUNG/704.png" alt="704" class="img-normalizada">
-                        <p class="mt-2 text-center">704</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SAMSUNG/705.png" alt="705" class="img-normalizada">
-                        <p class="mt-2 text-center">705</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SAMSUNG/705_recto.png" alt="705_recto_solar" class="img-normalizada">
-                        <p class="mt-2 text-center">705 SOLAR</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SAMSUNG/706.png" alt="706" class="img-normalizada">
-                        <p class="mt-2 text-center">706</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SAMSUNG/665.png" alt="665" class="img-normalizada">
-                        <p class="mt-2 text-center">665</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/SAMSUNG/SAMSUNG.html'; ?>
 
             
             <!-- LG MAGIC -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">LG MAGIC </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/LG_magic/lg_magic_classic.png" alt="LG MAGIC CLASSIC" class="img-normalizada">
-                        <p class="mt-2 text-center">LG MAGIC CLASICO</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/LG_magic/lg_magic_nuevo.png" alt="LG MAGIC NUEVO" class="img-normalizada">
-                        <p class="mt-2 text-center">LG MAGIC NUEVO</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/LG_magic/LG_magic.html'; ?>
 
 
             <!-- LG BOTON NETFLIX - AMAZON -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">LG BOTON NETFLIX - AMAZON </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/LG_netflix_amazon/673.png" alt="673" class="img-normalizada">
-                        <p class="mt-2 text-center">673</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/LG_netflix_amazon/675.png" alt="675" class="img-normalizada">
-                        <p class="mt-2 text-center">675</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/LG_netflix_amazon/LG_netflix_amazon.html'; ?>
 
             
             <!-- LG SMART -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">LG SMART </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/LG_smart/674.png" alt="674" class="img-normalizada">
-                        <p class="mt-2 text-center">674</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/LG_smart/674_2.png" alt="674-2" class="img-normalizada">
-                        <p class="mt-2 text-center">674</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/LG_smart/LG_smart.html'; ?>
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> RCA - TCL - HITACHI - ADMIRAL </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/RCA-TCL-HITACHI/1211.png" alt="1211" class="img-normalizada">
-                        <p class="mt-2 text-center">1211</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/RCA-TCL-HITACHI/700.png" alt="700" class="img-normalizada">
-                        <p class="mt-2 text-center">700</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/RCA-TCL-HITACHI/rca_tcl_admiral.png" alt="another" class="img-normalizada">
-                        <p class="mt-2 text-center">LCD613</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
 
             <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN</h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/723.png" alt="723" class="img-normalizada">
-                        <p class="mt-2 text-center">723</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/726.png" alt="726" class="img-normalizada">
-                        <p class="mt-2 text-center">726</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/680.png" alt="680" class="img-normalizada">
-                        <p class="mt-2 text-center">680</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/BGH/606.png" alt="606" class="img-normalizada">
-                        <p class="mt-2 text-center">606</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/BGH/BGH_2.png" alt="Alternativo" class="img-normalizada">
-                        <p class="mt-2 text-center">Alternativo</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/SANYO_JVC_ILO_PHILCO_NOBLEX/SANYO_JVC_ILO_PHILCO_NOBLEX.html'; ?>
 
 
             <!-- RCA -   -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> RCA </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/RCA/661.png" alt="661" class="img-normalizada">
-                        <p class="mt-2 text-center">661</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/RCA/662.png" alt="662" class="img-normalizada">
-                        <p class="mt-2 text-center">662</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/RCA/RCA.html'; ?>
 
 
-             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-             <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> ADMIRAL -  KEN BROWN - NOBLEX - SANYO </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1505.png" alt="1505" class="img-normalizada">
-                        <p class="mt-2 text-center">1505</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1506.png" alt="1506" class="img-normalizada">
-                        <p class="mt-2 text-center">1506</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
+            <?php include 'modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
 
-            <!-- TELEFUNKEN - BGH   -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> TELEFUNKEN - BGH - TOP HOUSE - SMART LIFE  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/TELEFUNKEN-BGH/725_1.png" alt="725" class="img-normalizada">
-                        <p class="mt-2 text-center">725</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/TELEFUNKEN-BGH/725_2.png" alt="725" class="img-normalizada">
-                        <p class="mt-2 text-center">725</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <!-- TELEFUNKEN - BGH - SMART LIFE  -->
+            <?php include 'modules_sources/TELEFUNKEN-BGH/TELEFUNKEN-BGH.html'; ?>
 
 
             <!-- SONY  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> SONY  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/SONY/714.png" alt="714" class="img-normalizada">
-                        <p class="mt-2 text-center">714</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SONY/715.png" alt="715" class="img-normalizada">
-                        <p class="mt-2 text-center">715</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SONY/716.png" alt="716" class="img-normalizada">
-                        <p class="mt-2 text-center">716</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/SONY/1216.png" alt="1216" class="img-normalizada">
-                        <p class="mt-2 text-center">1216</p>
-                    </div>    
-                    <div class="item p-2">
-                        <img src="cr_sources/SONY/1217.png" alt="1217" class="img-normalizada">
-                        <p class="mt-2 text-center">1217</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/SONY/SONY.html'; ?>
             
 
 
             <!-- DIRECTV  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> DIRECTV  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/DIRECTV/VIEJO_CORTO.png" alt="DIRECTV" class="img-normalizada">
-                        <p class="mt-2 text-center">CORTO VIEJO</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/DIRECTV/NUEVO_CORTO.png" alt="DIRECTV" class="img-normalizada">
-                        <p class="mt-2 text-center">CORTO NUEVO</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/DIRECTV/VIEJO_GRANDE.png" alt="DIRECTV" class="img-normalizada">
-                        <p class="mt-2 text-center">GRANDE VIEJO</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/DIRECTV/TODOS_EN_UNO.png" alt="DIRECTV" class="img-normalizada">
-                        <p class="mt-2 text-center">TODOS</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/DIRECTV/DIRECTV.html'; ?>
 
 
             <!-- PANASONIC  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> PANASONIC  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/PANASONIC/684.png" alt="684" class="img-normalizada">
-                        <p class="mt-2 text-center">684</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/PANASONIC/PANASONIC.png" alt="PANASONIC" class="img-normalizada">
-                        <p class="mt-2 text-center">PANASONIC</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/PANASONIC/PANASONIC.html'; ?>
 
 
             <!-- TCL  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> TCL  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/TCL/720.png" alt="720" class="img-normalizada">
-                        <p class="mt-2 text-center">720</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/TCL/720_alt.png" alt="720_ALT" class="img-normalizada">
-                        <p class="mt-2 text-center">ALTERNATIVO</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/TCL/TCL.html'; ?>
 
             
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">SANYO - NOBLEX - BGH - JVC - HISENSE</h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/Sanyo_noblex_bgh_jvc_hisense/707.png" alt="707" class="img-normalizada">
-                        <p class="mt-2 text-center">707</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Sanyo_noblex_bgh_jvc_hisense/709.png" alt="709" class="img-normalizada">
-                        <p class="mt-2 text-center">709</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/Sanyo_noblex_bgh_jvc_hisense/1236.png" alt="1236" class="img-normalizada">
-                        <p class="mt-2 text-center">1236</p>
-                    </div>
-
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
             
 
             <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg">DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX</h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/679.png" alt="679" class="img-normalizada">
-                        <p class="mt-2 text-center">679</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/718.png" alt="718" class="img-normalizada">
-                        <p class="mt-2 text-center">718</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/774.png" alt="774" class="img-normalizada">
-                        <p class="mt-2 text-center">774</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/NOBLEX/774_FORMATO2.png" alt="OTRO FORMATO" class="img-normalizada">
-                        <p class="mt-2 text-center">774(FORMATO ALTERNATIVO)</p>
-                    </div>
-
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
 
         </main>
@@ -557,72 +136,16 @@
     
         <main>
             <!-- Los grandotes de TCL  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> GRANDOTES  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/679.png" alt="679" class="img-normalizada">
-                        <p class="mt-2 text-center">679</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/TCL/712.png" alt="712" class="img-normalizada">
-                        <p class="mt-2 text-center">712</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/TCL/717.png" alt="717" class="img-normalizada">
-                        <p class="mt-2 text-center">717</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/GRANDOTES_TCL/GRANDOTES_TCL.html'; ?>
 
             <!-- FORMATO IGUAL  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> IGUALITOS  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/skyworth/control-remoto-sky-1212-500x500.jpg.png" alt="1212" class="img-normalizada">
-                        <p class="mt-2 text-center">1212</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/RCA_ADMIRAL_TALENT/696.png" alt="696" class="img-normalizada">
-                        <p class="mt-2 text-center">696</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
 
             <!-- TELEFUNEN VS ENOVA  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> TELEFUNEN VS ENOVA  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/TELEFUNKEN-BGH/725_1.png" alt="725" class="img-normalizada">
-                        <p class="mt-2 text-center">725</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/ENOVA/1364.png" alt="1364" class="img-normalizada">
-                        <p class="mt-2 text-center">1364</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/TELEFUNKEN_VS_ENOVA/TELEFUNKEN_VS_ENOVA.html'; ?>
 
             <!-- LG  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> LG  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="cr_sources/LG/1369.png" alt="1369" class="img-normalizada">
-                        <p class="mt-2 text-center">1369</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="cr_sources/LG/670.png" alt="670" class="img-normalizada">
-                        <p class="mt-2 text-center">670</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include 'modules_sources/LG_2/LG_2.html'; ?>
 
 
         </main>

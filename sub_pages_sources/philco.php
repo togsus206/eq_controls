@@ -34,34 +34,10 @@
 
             
             <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/723.png" alt="723" class="img-normalizada">
-                        <p class="mt-2 text-center">723</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/726.png" alt="726" class="img-normalizada">
-                        <p class="mt-2 text-center">726</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/SANYO-JVC-ILO-PHILCO-NOBLEX/680.png" alt="680" class="img-normalizada">
-                        <p class="mt-2 text-center">680</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/BGH/606.png" alt="606" class="img-normalizada">
-                        <p class="mt-2 text-center">606</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/BGH/BGH_2.png" alt="Alternativo" class="img-normalizada">
-                        <p class="mt-2 text-center">Alternativo</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/SANYO_JVC_ILO_PHILCO_NOBLEX/SANYO_JVC_ILO_PHILCO_NOBLEX.html'; ?>
 
-
+        </main>
+        
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
             <br/>
@@ -70,24 +46,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
-
 
 </body>
 </html>

@@ -34,45 +34,15 @@
 
             
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> RCA - TCL - HITACHI - ADMIRAL </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/RCA-TCL-HITACHI/1211.png" alt="1211" class="img-normalizada">
-                        <p class="mt-2 text-center">1211</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/RCA-TCL-HITACHI/700.png" alt="700" class="img-normalizada">
-                        <p class="mt-2 text-center">700</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/RCA-TCL-HITACHI/rca_tcl_admiral.png" alt="another" class="img-normalizada">
-                        <p class="mt-2 text-center">LCD613</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
 
 
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> ADMIRAL -  KEN BROWN - NOBLEX - SANYO </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1505.png" alt="1505" class="img-normalizada">
-                        <p class="mt-2 text-center">1505</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/ADMIRAL-KB-NOBLEX-SANYO/1506.png" alt="1506" class="img-normalizada">
-                        <p class="mt-2 text-center">1506</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
-
-
+        </main>
+        
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
             <br/>
@@ -83,21 +53,7 @@
     </div>
 
 
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
+    
 
 
 </body>

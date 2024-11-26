@@ -34,40 +34,10 @@
 
             
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> RCA - TCL - HITACHI - ADMIRAL </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/RCA-TCL-HITACHI/1211.png" alt="1211" class="img-normalizada">
-                        <p class="mt-2 text-center">1211</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/RCA-TCL-HITACHI/700.png" alt="700" class="img-normalizada">
-                        <p class="mt-2 text-center">700</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/RCA-TCL-HITACHI/rca_tcl_admiral.png" alt="another" class="img-normalizada">
-                        <p class="mt-2 text-center">LCD613</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
             <!-- TCL  -->
-            <div class="mb-8">
-                <h2 class="text-2xl font-semibold mb-4 custom-bg"> TCL  </h2>
-                <div class="horizontal-scroll">
-                    <div class="item p-2">
-                        <img src="../cr_sources/TCL/720.png" alt="720" class="img-normalizada">
-                        <p class="mt-2 text-center">720</p>
-                    </div>
-                    <div class="item p-2">
-                        <img src="../cr_sources/TCL/720_alt.png" alt="720_ALT" class="img-normalizada">
-                        <p class="mt-2 text-center">ALTERNATIVO</p>
-                    </div>
-                    <!-- Más controles -->
-                </div>
-            </div>
+            <?php include '../modules_sources/TCL/TCL.html'; ?>
 
 
         <footer class="text-center mt-8">
@@ -78,23 +48,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    <!--Script para el deslizamiento de la barra superior -->
-    <script>
-        let scrollInterval;
-
-        function startScroll(direction) {
-            const navContainer = document.getElementById('nav-container');
-            scrollInterval = setInterval(() => {
-                navContainer.scrollBy({ left: direction * 5 });
-            }, 20); // Ajusta la velocidad
-        }
-
-        function stopScroll() {
-            clearInterval(scrollInterval);
-        }
-    </script>
 
 
 </body>
