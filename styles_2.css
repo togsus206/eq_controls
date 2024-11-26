@@ -205,3 +205,14 @@ body {
             color: white !important;             /* Texto en blanco para mejor contraste */
             border-radius: 8px;       /* Opcional: para redondear las esquinas */
         }
+
+
+
+        .zoom {
+            transition: transform 0.3s ease; /* Animación suave */
+          }
+          
+          .zoom:hover {
+            transform: scale(1.1); /* Agranda la imagen un 20% */
+          }
+          
