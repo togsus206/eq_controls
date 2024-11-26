@@ -32,21 +32,12 @@
 
             <?php include '../navbar.html'; ?>
 
-            
-           <!-- Kanji - Samsung -->
-           <?php include '../modules_sources/samsung-kanji/samsung-kanji.html'; ?>
-
-            <!-- Samsung -->
-            <?php include '../modules_sources/SAMSUNG/SAMSUNG.html'; ?>
-
-
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
             <!-- SAMSUNG VS CROWN MUSTAND  -->
             <?php include '../modules_sources/CROWN_SAMSUNG/CROWN_SAMSUNG.html'; ?>
 
-        </main>
 
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
@@ -56,6 +47,7 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
+
 
 </body>
 </html>

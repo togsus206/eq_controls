@@ -147,6 +147,8 @@
             <!-- LG  -->
             <?php include 'modules_sources/LG_2/LG_2.html'; ?>
 
+            <!-- SAMSUNG VS CROWN MUSTAND  -->
+            <?php include 'modules_sources/CROWN_SAMSUNG/CROWN_SAMSUNG.html'; ?>
 
         </main>
 
