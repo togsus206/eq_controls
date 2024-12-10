@@ -12,7 +12,7 @@
     
 </head>
 <body class="bg-gray-100">
-    <div class="container mx-auto px-4 py-8">
+    <div class="container mx-auto px-4 py-8 md:px-6 md:py-4">
         <header class="text-center mb-8">
             <h1 class="text-3xl font-bold">EQUIVALENCIA DE CONTROLES REMOTOS DE TELEVISORES</h1>
 
@@ -126,7 +126,7 @@
 
     
     </head>
-        <div class="container mx-auto px-4 py-8">
+        <div class="container mx-auto px-4 py-8 md:px-6 md:py-4">
             <header class="text-center mb-8">
                 <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             </header>

@@ -216,3 +216,38 @@ body {
             transform: scale(1.1); /* Agranda la imagen un 20% */
           }
           
+
+
+
+
+          /* Ajustar tamaños de fuente para pantallas pequeñas */
+            @media (max-width: 768px) {
+                body {
+                    font-size: 14px; /* Cambia según el tamaño deseado */
+                }
+
+                h1 {
+                    font-size: 1.5rem;
+                }
+
+                h2 {
+                    font-size: 1.25rem;
+                }
+            }
+
+            /* Imágenes responsivas */
+            img {
+                max-width: 100%; /* No exceder el ancho del contenedor */
+                height: auto;    /* Mantener la proporción de aspecto */
+            }
+
+
+            /* Contenedores responsivos */
+            .container {
+                max-width: 100%;
+                padding-left: 1rem;  /* Ajustar márgenes y padding */
+                padding-right: 1rem;
+                margin: 0 auto;
+            }
+
+
