@@ -32,19 +32,6 @@
 
             <?php include '../navbar.html'; ?>
 
-            
-            <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
-
-            <!-- RCA -   -->
-            <?php include '../modules_sources/RCA/RCA.html'; ?>
-
-            <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX  -->
-            <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
-
-            <!-- TCL - DAEWOO - RCA - HITACHI - HYUNDAI  -->
-            <?php include '../modules_sources/tcl_daewoo_rca_hitachi_hyundai.html'; ?>
-
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
@@ -61,7 +48,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
 
 </body>
 </html>

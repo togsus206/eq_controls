@@ -118,6 +118,10 @@
             <?php include 'modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
 
+            <!-- TCL - DAEWOO - RCA - HITACHI - HYUNDAI  -->
+            <?php include 'modules_sources/tcl_daewoo_rca_hitachi_hyundai.html'; ?>
+
+
         </main>
 
     
@@ -149,6 +153,9 @@
 
             <!-- SAMSUNG VS CROWN MUSTAND  -->
             <?php include 'modules_sources/CROWN_SAMSUNG/CROWN_SAMSUNG.html'; ?>
+
+            <!-- TCL - RCA VS STELLHOME PANORAMIC  -->
+            <?php include 'modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>
 
         </main>
 

@@ -36,6 +36,15 @@
             <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX  -->
             <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
+            <!-- TCL - DAEWOO - RCA - HITACHI - HYUNDAI  -->
+            <?php include '../modules_sources/tcl_daewoo_rca_hitachi_hyundai.html'; ?>
+
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
+            <br/>
+
+            <!-- TCL - RCA VS STEELHOME PANORAMIC  -->
+            <?php include '../modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>
+
         </main>
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>

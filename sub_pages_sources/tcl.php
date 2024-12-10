@@ -39,6 +39,15 @@
             <!-- TCL  -->
             <?php include '../modules_sources/TCL/TCL.html'; ?>
 
+            <!-- TCL - DAEWOO - RCA - HITACHI - HYUNDAI  -->
+            <?php include '../modules_sources/tcl_daewoo_rca_hitachi_hyundai.html'; ?>
+
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
+            <br/>
+
+            <!-- TCL - RCA VS STEELHOME PANORAMIC  -->
+            <?php include '../modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>
+
 
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
