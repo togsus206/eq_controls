@@ -124,6 +124,9 @@
             <!-- TCL - DAEWOO - RCA - HITACHI - HYUNDAI  -->
             <?php include 'modules_sources/tcl_daewoo_rca_hitachi_hyundai.html'; ?>
 
+            <!-- ONN - RCA - PHILCO - SANYO  -->
+            <?php include 'modules_sources/onn_rca_philco_sanyo.html'; ?>
+
 
         </main>
 
