@@ -38,6 +38,9 @@
             <!-- NOHIS -->
             <?php include 'modules_sources/nohis/nohis.html'; ?>
 
+            <!-- NOHIS CON VOZ-->
+            <?php include 'modules_sources/nohis_con_voz.html'; ?> 
+
             <!-- KEN BROWN -->
             <?php include 'modules_sources/ken_b/ken_b.html'; ?>
 
@@ -156,6 +159,9 @@
 
             <!-- TCL - RCA VS STELLHOME PANORAMIC  -->
             <?php include 'modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>
+
+            <!-- AMBOS NOHIS, PERO NO  -->
+            <?php include 'modules_sources/nohis_but_no.html'; ?>
 
         </main>
 
