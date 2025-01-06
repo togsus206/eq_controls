@@ -53,6 +53,9 @@
             <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX  -->
             <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
+            <!-- PHILCO - JVC -NOBLEX - SANYO  -->
+            <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

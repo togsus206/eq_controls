@@ -43,6 +43,9 @@
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
+            <!-- PHILCO - JVC -NOBLEX - SANYO  -->
+            <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

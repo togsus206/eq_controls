@@ -52,6 +52,11 @@
             <!-- ONN - RCA - PHILCO - SANYO  -->
             <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>
 
+            <!-- PHILCO - JVC -NOBLEX - SANYO  -->
+            <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
+
+            
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 

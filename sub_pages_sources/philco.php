@@ -39,6 +39,9 @@
             <!-- ONN - RCA - PHILCO - SANYO  -->
             <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>
 
+            <!-- PHILCO - JVC -NOBLEX - SANYO  -->
+            <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">
