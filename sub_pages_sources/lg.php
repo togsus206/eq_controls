@@ -44,6 +44,9 @@
             <!-- LG SMART -->
             <?php include '../modules_sources/LG_smart/LG_smart.html'; ?>
 
+            <!-- LG  -->
+            <?php include '../modules_sources/LG.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

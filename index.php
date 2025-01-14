@@ -88,6 +88,10 @@
             
             <!-- LG SMART -->
             <?php include 'modules_sources/LG_smart/LG_smart.html'; ?>
+            
+
+            <!-- LG  -->
+            <?php include 'modules_sources/LG.html'; ?>
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include 'modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
