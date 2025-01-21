@@ -33,7 +33,7 @@
             <?php include '../navbar.html'; ?>
 
             
-            <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX  -->
+            <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI -->
             <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
 

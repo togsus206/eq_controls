@@ -50,7 +50,7 @@
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
             
 
-            <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX  -->
+           <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI -->
             <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
