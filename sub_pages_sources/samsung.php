@@ -39,6 +39,9 @@
             <!-- Samsung -->
             <?php include '../modules_sources/SAMSUNG/SAMSUNG.html'; ?>
 
+            <!-- Samsung Grande-->
+            <?php include '../modules_sources/samsung_grande.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
