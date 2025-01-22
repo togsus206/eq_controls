@@ -21,15 +21,8 @@
 
         </header>
 
-        <div class="disclaimer">
-        <p><strong>SI UN TELEVISOR TENÍA UN CONTROL DE UNA FILA, SE PUEDEN USAR LOS CONTROLES DE LA MISMA FILA COMO EQUIVALENTES.</strong></p>
-        <br/>
-        <p> <strong>
-            QUE LA MARCA APAREZCA ARRIBA DE UNA FILA DE CONTROL NO QUIERE DECIR QUE LOS CONTROLES DE ESA FILA SEAN SÍ O SÍ 
-            COMPATIBLES CON TU TELEVISOR. SOLO SI TU TELEVISOR TENÍA UNO DE LOS CONTROLES QUE APARECEN EN LA FILA, QUIERE DECIR
-            QUE EL RESTO DE CONTROLES DE LA FILA SERÁN COMPATIBLES. </strong>
-        </p>
-        </div>
+        <?php include 'addons_sources/disclaimer.html'; ?>
+        
         <br/><br/><br/>
 
             <!-- Inicio de bloque de codigo dado para la publicidad superior de la pagina -->

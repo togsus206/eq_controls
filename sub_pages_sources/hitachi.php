@@ -19,13 +19,8 @@
             <?php include '../logo.html'; ?>
         </header>
 
-        <p>SI UN TELEVISOR TENIA UN CONTROL DE UNA FILA, SE PUEDEN USAR LOS CONTROLES DE LA MISMA FILA COMO EQUIVALENTES.</p>
-        <br/>
-        <p>
-            QUE LA MARCA APAREZCA ARRIBA DE UNA FILA DE CONTROL NO QUIERE DECIR QUE LOS CONTROLES DE ESA FILA SEAN SI O SI 
-            COMPATIBLES CON TU TELEVISOR. SOLO SI TU TELEVISOR TENIA UNO DE LOS CONTROLES QUE APARECEN EN LA FILA, QUIERE DECIR
-            QUE EL RESTO DE CONTROLES DE LA FILA SERAN COMPATIBLES.
-        </p>
+        <?php include '../addons_sources/disclaimer.html'; ?>
+        
         <br/><br/><br/>
 
         <main>
