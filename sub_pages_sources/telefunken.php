@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
     <link rel="stylesheet" href="../styles_2.css">
-    <?php include "../mini_logo.html"; ?>
+    <?php include '../addons_sources/mini_logo.html'; ?>
 
     
 </head>
@@ -16,7 +16,7 @@
         <header class="text-center mb-8">
             <h1 class="text-3xl font-bold">EQUIVALENCIA DE CONTROLES REMOTOS DE TELEVISORES</h1>
 
-            <?php include '../logo.html'; ?>
+            <?php include '../addons_sources/logo.html'; ?>
         </header>
 
         <?php include '../addons_sources/disclaimer.html'; ?>
@@ -25,7 +25,7 @@
 
         <main>
 
-            <?php include '../navbar.html'; ?>
+            <?php include '../addons_sources/navbar.html'; ?>
 
             
             <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
