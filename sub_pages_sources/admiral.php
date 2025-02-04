@@ -35,6 +35,9 @@
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
             <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
+            <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
+            <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">
@@ -45,9 +48,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
-
-    
 
 
 </body>

@@ -141,6 +141,8 @@
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
             <?php include 'modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
 
+            <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
+            <?php include 'modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
 
         </main>
 
