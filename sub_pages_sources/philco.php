@@ -36,6 +36,13 @@
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
             <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
 
+            <!-- RCA - TCL - HITACHI - ADMIRAL  -->
+            <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
+
+
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
+            <br/>
+
         </main>
         
         <footer class="text-center mt-8">
