@@ -43,6 +43,9 @@
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
+            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
