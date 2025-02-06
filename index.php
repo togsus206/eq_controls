@@ -73,9 +73,6 @@
             <?php include 'modules_sources/SAMSUNG/SAMSUNG.html'; ?>
 
             
-            <!-- Samsung Grande-->
-            <?php include 'modules_sources/samsung_grande.html'; ?>
-            
             <!-- LG MAGIC -->
             <?php include 'modules_sources/LG_magic/LG_magic.html'; ?>
 
