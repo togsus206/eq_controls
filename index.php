@@ -28,14 +28,14 @@
             <!-- Inicio de bloque de codigo dado para la publicidad superior de la pagina -->
             <script type="text/javascript">
                 atOptions = {
-                    'key' : '5350e9ddc94a434d59743bfc23422b85',
+                    'key' : '15728aaa591836d26335b3515e02b329',
                     'format' : 'iframe',
                     'height' : 90,
                     'width' : 728,
                     'params' : {}
                 };
             </script>
-            <script type="text/javascript" src="//www.highperformanceformat.com/5350e9ddc94a434d59743bfc23422b85/invoke.js"></script>
+            <script type="text/javascript" src="//www.highperformanceformat.com/15728aaa591836d26335b3515e02b329/invoke.js"></script>
             <!-- Fin de bloque publicitario -->
 
         <main>
@@ -193,8 +193,8 @@
 
     
     <!-- Inicio de bloque de codigo dado para la publicidad superior de la pagina -->
-    <script async="async" data-cfasync="false" src="//pl25560806.profitablecpmrate.com/26ea0e79a1881d4428c12438ce8233d8/invoke.js"></script>
-    <div id="container-26ea0e79a1881d4428c12438ce8233d8"></div>
+    <script async="async" data-cfasync="false" src="//pl25832071.effectiveratecpm.com/91faba1cc943f069a291b971a938567d/invoke.js"></script>
+    <div id="container-91faba1cc943f069a291b971a938567d"></div>
     <!-- Fin de bloque publicitario -->
 
 
