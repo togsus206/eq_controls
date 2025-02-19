@@ -36,10 +36,14 @@ Para ejecutar el proyecto en tu máquina local, sigue estos pasos:
 El proyecto está desplegado en Azure y es accesible a través del dominio personalizado:
 - [https://equicontrol.dev.ar](https://equicontrol.dev.ar)
 
+Actualizacion 19/02/2025:
+
+La aplicacion se ha movido al proveedor de servicios de hosting DonWeb. Si bien se sigue pudiendo acceder a traves de equicontrol.dev.ar, esta pagina se redirige a equicontrol.site(sin certificado SSL) 
+
 ### Proceso de despliegue
 1. Los cambios se realizan en el entorno local.
 2. Los archivos actualizados se suben al repositorio de GitHub.
-3. Azure se utiliza para alojar y servir la aplicación web.
+3. DonWeb se utiliza para alojar y servir la aplicación web.
 
 ## Funcionalidades principales
 

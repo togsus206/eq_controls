@@ -141,6 +141,9 @@
             <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
             <?php include 'modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
 
+            <!-- CROWN MUSTANG -->
+            <?php include 'modules_sources/C_MUSTANG.html'; ?>
+
         </main>
 
     
@@ -178,6 +181,9 @@
 
             <!-- AMBOS NOHIS, PERO NO  -->
             <?php include 'modules_sources/nohis_but_no.html'; ?>
+            
+            <!-- TODOS ILO, PERO NO  -->
+            <?php include 'modules_sources/ilo_but_no.html'; ?>
 
         </main>
 

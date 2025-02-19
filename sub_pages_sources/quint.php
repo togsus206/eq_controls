@@ -27,16 +27,19 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            <!-- CROWN MUSTANG -->
-            <?php include '../modules_sources/C_MUSTANG.html'; ?>
+            
+            <!-- NOHIS -->
+            <?php include '../modules_sources/nohis/nohis.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
-            <!-- SAMSUNG VS CROWN MUSTAND  -->
-            <?php include '../modules_sources/CROWN_SAMSUNG/CROWN_SAMSUNG.html'; ?>
+            <!-- AMBOS NOHIS, PERO NO  -->
+            <?php include '../modules_sources/nohis_but_no.html'; ?>
 
-
+        </main>
+        
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
             <br/>
@@ -45,7 +48,6 @@
             <p>&copy; 2024 Listado de Controles Remotos</p>
         </footer>
     </div>
-
 
 </body>
 </html>

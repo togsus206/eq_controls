@@ -33,6 +33,13 @@
             <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
             <?php include '../modules_sources/SANYO_JVC_ILO_PHILCO_NOBLEX/SANYO_JVC_ILO_PHILCO_NOBLEX.html'; ?>
 
+
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
+            <br/>
+
+            <!-- AMBOS NOHIS, PERO NO  -->
+            <?php include '../modules_sources/ilo_but_no.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">
