@@ -39,8 +39,17 @@
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
+            <!-- NOHIS -->
+            <?php include '../modules_sources/nohis/nohis.html'; ?>
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
+
+            <!-- SAMSUNG VS HYUNDAI  -->
+            <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
+
+            <!-- AMBOS NOHIS, PERO NO  -->
+            <?php include '../modules_sources/nohis_but_no.html'; ?>
 
         </main>
         

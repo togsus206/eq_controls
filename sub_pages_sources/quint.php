@@ -38,6 +38,10 @@
             <!-- AMBOS NOHIS, PERO NO  -->
             <?php include '../modules_sources/nohis_but_no.html'; ?>
 
+
+            <!-- SAMSUNG VS HYUNDAI  -->
+            <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

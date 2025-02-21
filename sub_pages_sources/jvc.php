@@ -41,6 +41,15 @@
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
             <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
 
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
+            <br/>
+
+            <!-- AMBOS NOHIS, PERO NO  -->
+            <?php include '../modules_sources/nohis_but_no.html'; ?>
+
+            <!-- SAMSUNG VS HYUNDAI  -->
+            <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

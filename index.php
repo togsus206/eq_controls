@@ -184,6 +184,9 @@
             
             <!-- TODOS ILO, PERO NO  -->
             <?php include 'modules_sources/ilo_but_no.html'; ?>
+            
+            <!-- SAMSUNG VS HYUNDAI  -->
+            <?php include 'modules_sources/sam_vs_hyundai.html'; ?>
 
         </main>
 
