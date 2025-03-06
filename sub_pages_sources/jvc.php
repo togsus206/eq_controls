@@ -41,6 +41,9 @@
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
             <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
 
+            <!-- NOBLEX - HITACHI- SANYO -JVC - PHILCO  -->
+            <?php include '../modules_sources/NOBLEX-HITACHI-SANYO-JVC-PHILCO.html'; ?>
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 

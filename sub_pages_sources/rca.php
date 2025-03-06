@@ -40,6 +40,9 @@
             <!-- ONN - RCA - PHILCO - SANYO  -->
             <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>
 
+            <!-- RCA - AIPA  -->
+            <?php include '../modules_sources/RCA-AIPA.html'; ?>
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 

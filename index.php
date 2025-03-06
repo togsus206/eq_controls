@@ -144,6 +144,14 @@
             <!-- CROWN MUSTANG -->
             <?php include 'modules_sources/C_MUSTANG.html'; ?>
 
+            <!-- NOBLEX - HITACHI- SANYO -JVC - PHILCO  -->
+            <?php include 'modules_sources/NOBLEX-HITACHI-SANYO-JVC-PHILCO.html'; ?>
+
+            <!-- RCA - AIPA  -->
+            <?php include 'modules_sources/RCA-AIPA.html'; ?>
+
+
+
         </main>
 
     

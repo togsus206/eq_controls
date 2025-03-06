@@ -54,6 +54,9 @@
             <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
             <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
 
+            <!-- NOBLEX - HITACHI- SANYO -JVC - PHILCO  -->
+            <?php include '../modules_sources/NOBLEX-HITACHI-SANYO-JVC-PHILCO.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
