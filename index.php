@@ -196,6 +196,9 @@
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include 'modules_sources/sam_vs_hyundai.html'; ?>
 
+            <!-- SAMSUNG 704 VS 1360  -->
+            <?php include 'modules_sources/sam_704_1360.html'; ?>
+
         </main>
 
 
