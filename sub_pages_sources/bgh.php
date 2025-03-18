@@ -34,9 +34,6 @@
             <!-- NOHIS CON VOZ-->
             <?php include '../modules_sources/nohis_con_voz.html'; ?>
 
-            <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
-            <?php include '../modules_sources/SANYO_JVC_ILO_PHILCO_NOBLEX/SANYO_JVC_ILO_PHILCO_NOBLEX.html'; ?>
-
             <!-- TELEFUNKEN - BGH   -->
             <?php include '../modules_sources/TELEFUNKEN-BGH/TELEFUNKEN-BGH.html'; ?>
 

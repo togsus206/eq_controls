@@ -27,15 +27,13 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            
-            <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
-            <?php include '../modules_sources/SANYO_JVC_ILO_PHILCO_NOBLEX/SANYO_JVC_ILO_PHILCO_NOBLEX.html'; ?>
-
-
             <!-- TELEFUNKEN - BGH   -->
             <?php include '../modules_sources/TELEFUNKEN-BGH/TELEFUNKEN-BGH.html'; ?>
 
+            <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
+            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
+            
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 

@@ -70,31 +70,13 @@
             <?php include 'modules_sources/samsung-kanji/samsung-kanji.html'; ?>
 
             <!-- Samsung -->
-            <?php include 'modules_sources/SAMSUNG/SAMSUNG.html'; ?>
-
-            
-            <!-- LG MAGIC -->
-            <?php include 'modules_sources/LG_magic/LG_magic.html'; ?>
-
-
-            <!-- LG BOTON NETFLIX - AMAZON -->
-            <?php include 'modules_sources/LG_netflix_amazon/LG_netflix_amazon.html'; ?>
-
-            
-            <!-- LG SMART -->
-            <?php include 'modules_sources/LG_smart/LG_smart.html'; ?>
-            
+            <?php include 'modules_sources/SAMSUNG/SAMSUNG.html'; ?>            
 
             <!-- LG  -->
             <?php include 'modules_sources/LG.html'; ?>
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include 'modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
-
-
-            <!-- JVC - ILO - SANYO - NOBLEX  - PHILCO - BGH - ONN - TELEFUNKEN -->
-            <?php include 'modules_sources/SANYO_JVC_ILO_PHILCO_NOBLEX/SANYO_JVC_ILO_PHILCO_NOBLEX.html'; ?>
-
 
             <!-- RCA -   -->
             <?php include 'modules_sources/RCA/RCA.html'; ?>
@@ -177,9 +159,6 @@
 
             <!-- TELEFUNEN VS ENOVA  -->
             <?php include 'modules_sources/TELEFUNKEN_VS_ENOVA/TELEFUNKEN_VS_ENOVA.html'; ?>
-
-            <!-- LG  -->
-            <?php include 'modules_sources/LG_2/LG_2.html'; ?>
 
             <!-- SAMSUNG VS CROWN MUSTAND  -->
             <?php include 'modules_sources/CROWN_SAMSUNG/CROWN_SAMSUNG.html'; ?>

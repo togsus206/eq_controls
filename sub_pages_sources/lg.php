@@ -27,18 +27,6 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            
-            <!-- LG MAGIC -->
-            <?php include '../modules_sources/LG_magic/LG_magic.html'; ?>
-
-
-            <!-- LG BOTON NETFLIX - AMAZON -->
-            <?php include '../modules_sources/LG_netflix_amazon/LG_netflix_amazon.html'; ?>
-
-            
-            <!-- LG SMART -->
-            <?php include '../modules_sources/LG_smart/LG_smart.html'; ?>
-
             <!-- LG  -->
             <?php include '../modules_sources/LG.html'; ?>
 
@@ -46,8 +34,6 @@
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
-            <!-- LG  -->
-            <?php include '../modules_sources/LG_2/LG_2.html'; ?>
         </main>
         
         <footer class="text-center mt-8">
