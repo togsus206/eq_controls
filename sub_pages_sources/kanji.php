@@ -29,8 +29,6 @@
             <?php include '../addons_sources/navbar.html'; ?>
 
             
-            <!-- Kanji - Samsung -->
-            <?php include '../modules_sources/samsung-kanji/samsung-kanji.html'; ?>
 
         </main>
                     
