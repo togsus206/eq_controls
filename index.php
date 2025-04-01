@@ -64,7 +64,7 @@
             
             
             <!-- PHILIPS TUBO -->
-            <?php include 'modules_sources/PHILIPS_TUBO/PHILIPS_TUBO.html'; ?>
+            <?php include 'modules_sources/PHILIPS_TUBO/PHILIPS_TUBO.html'; ?>  
 
             <!-- Samsung -->
             <?php include 'modules_sources/SAMSUNG/SAMSUNG.html'; ?>            
