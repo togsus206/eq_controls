@@ -175,6 +175,9 @@
             <!-- SAMSUNG 704 VS 1360  -->
             <?php include 'modules_sources/sam_704_1360.html'; ?>
 
+            <!-- LG vs SAMSUNG  -->
+            <?php include 'modules_sources/LGvsSAM.html'; ?>
+
         </main>
 
 

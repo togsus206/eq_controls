@@ -40,6 +40,9 @@
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
 
+            <!-- LG vs SAMSUNG  -->
+            <?php include '../modules_sources/LGvsSAM.html'; ?>
+
         </main>
 
         <footer class="text-center mt-8">
