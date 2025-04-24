@@ -27,27 +27,14 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            
-            <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
-
-            <!-- RCA -   -->
-            <?php include '../modules_sources/RCA/RCA.html'; ?>
-
             <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI - MASTER GOLD -->
             <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
-            <!-- ONN - RCA - PHILCO - SANYO  -->
-            <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>
-
-            <!-- RCA - AIPA  -->
-            <?php include '../modules_sources/RCA-AIPA.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
-            <!-- TCL - RCA VS STEELHOME PANORAMIC  -->
-            <?php include '../modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>
+
 
         </main>
         
