@@ -9,6 +9,16 @@
     <link rel="stylesheet" href="styles_2.css">
     <?php include 'addons_sources/mini_logo.html'; ?>
 
+
+    <!-- Script para ver el mapa de calor de la pagina con clarity de microsoft -->
+    <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "rbzbowzlyv");
+    </script>
+
     
 </head>
 <body class="bg-gray-100">
