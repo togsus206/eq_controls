@@ -28,7 +28,8 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            
+            <!-- KANJI  -->
+            <?php include '../modules_sources/kanji.html'; ?>
 
         </main>
                     

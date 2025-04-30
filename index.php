@@ -139,6 +139,9 @@
             <!-- RCA - AIPA  -->
             <?php include 'modules_sources/RCA-AIPA.html'; ?>
 
+            <!-- KANJI  -->
+            <?php include 'modules_sources/kanji.html'; ?>
+
 
 
         </main>
