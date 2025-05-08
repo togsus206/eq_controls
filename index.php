@@ -141,7 +141,10 @@
 
             <!-- KANJI  -->
             <?php include 'modules_sources/kanji.html'; ?>
+            
 
+            <!-- ENOVA  -->
+            <?php include 'modules_sources/enova.html'; ?>
 
 
         </main>
