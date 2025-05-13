@@ -18,7 +18,7 @@ Para ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
 1. **Clonar el repositorio**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/togsus206/eq_controls.git
    cd eq_controls
    ```
 
@@ -33,7 +33,7 @@ Para ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
 ## Despliegue en producción
 
-El proyecto está desplegado en Azure y es accesible a través del dominio personalizado:
+El proyecto está desplegado y es accesible a través del dominio personalizado:
 - [https://equicontrol.dev.ar](https://equicontrol.dev.ar)
 
 Actualizacion 19/02/2025:
@@ -50,6 +50,14 @@ La aplicacion se ha movido al proveedor de servicios de hosting DonWeb. Si bien 
 - Mostrar una lista de controles remotos de televisores.
 - Indicar las equivalencias entre diferentes modelos de controles remotos.
 - Diseño simple y fácil de navegar, sin depender de frameworks.
+
+## Pruebas
+
+Este proyecto utiliza Jest para las pruebas unitarias de las funciones de JavaScript. Para ejecutar las pruebas, utiliza el siguiente comando:
+
+```bash
+npm test
+
 
 ## Contribuciones
 
