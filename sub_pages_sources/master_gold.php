@@ -30,6 +30,9 @@
             <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI - MASTER GOLD -->
             <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
+            <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
+            <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

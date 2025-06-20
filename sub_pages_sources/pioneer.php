@@ -26,24 +26,11 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            
-            <!-- NOHIS -->
-            <?php include '../modules_sources/nohis/nohis.html'; ?>
-
-            <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
-
             <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
             <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
-
-            <!-- AMBOS NOHIS, PERO NO  -->
-            <?php include '../modules_sources/ilo_but_no.html'; ?>
-
-            <!-- SAMSUNG VS HYUNDAI  -->
-            <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
 
         </main>
         

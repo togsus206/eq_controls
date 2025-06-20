@@ -31,6 +31,9 @@
             <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI -->
             <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
+            <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
+            <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
+
 
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>

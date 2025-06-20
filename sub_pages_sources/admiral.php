@@ -30,13 +30,14 @@
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
-
-
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
             <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
             <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
             <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
+
+            <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
+            <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
 
         </main>
         
