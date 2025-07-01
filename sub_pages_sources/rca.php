@@ -49,6 +49,9 @@
             <!-- TCL - RCA VS STEELHOME PANORAMIC  -->
             <?php include '../modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>
 
+            <!-- TELEFUNKEN: 1532 VS 721  -->
+            <?php include '../modules_sources/1532_vs_721.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

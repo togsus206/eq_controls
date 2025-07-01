@@ -27,3 +27,6 @@
 
             <!-- LG vs SAMSUNG  -->
             <?php include 'modules_sources/LGvsSAM.html'; ?>
+
+            <!-- TELEFUNKEN: 1532 VS 721  -->
+            <?php include 'modules_sources/1532_vs_721.html'; ?>
