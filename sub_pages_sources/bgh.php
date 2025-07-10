@@ -56,6 +56,9 @@
             <!-- TELEFUNKEN: 1532 VS 721  -->
             <?php include '../modules_sources/1532_vs_721.html'; ?>
 
+            <!-- BGH - TELEFUNKEN vs NOBLEX  -->
+            <?php include '../modules_sources/606_vs_680.html'; ?>
+
 
         </main>
         

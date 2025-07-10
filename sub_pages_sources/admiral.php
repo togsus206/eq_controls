@@ -39,6 +39,12 @@
             <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
             <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
 
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
+            <br/>
+
+            <!-- NOBLEX - SANYO - ADMIRAL VS TELEFUNKEN   -->
+            <?php include '../modules_sources/676_vs_724.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

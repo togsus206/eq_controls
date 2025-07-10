@@ -70,6 +70,9 @@
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
 
+            <!-- NOBLEX - SANYO - ADMIRAL VS TELEFUNKEN   -->
+            <?php include '../modules_sources/676_vs_724.html'; ?>
+
         </main>
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
