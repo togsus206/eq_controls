@@ -96,3 +96,7 @@
 
             <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
             <?php include 'modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
+
+            <!-- ILO - SANYO - TOPHOUSE -->
+            <?php include 'modules_sources/ilo.html'; ?>
+
