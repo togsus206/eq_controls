@@ -33,3 +33,6 @@
 
             <!-- NOBLEX - SANYO - ADMIRAL VS TELEFUNKEN   -->
             <?php include 'modules_sources/676_vs_724.html'; ?>
+
+            <!-- BGH vs HISENSE -->
+             <?php include 'modules_sources/BGH_VS_HISENSE.html'; ?>

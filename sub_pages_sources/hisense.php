@@ -49,6 +49,9 @@
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
 
+            <!-- BGH vs HISENSE -->
+             <?php include '../modules_sources/BGH_VS_HISENSE.html'; ?>
+
         </main>
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>

@@ -34,6 +34,9 @@
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
+            <!-- BGH vs HISENSE -->
+             <?php include '../modules_sources/BGH_VS_HISENSE.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">
