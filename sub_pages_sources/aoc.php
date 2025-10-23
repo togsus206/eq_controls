@@ -30,6 +30,9 @@
             <!-- AOC  -->
             <?php include '../modules_sources/AOC.html'; ?>
 
+            <!-- AOC CON ROKU TV -->
+            <?php include '../modules_sources/AOC_ROKU_TV.html'; ?>
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 

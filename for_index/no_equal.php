@@ -36,3 +36,5 @@
 
             <!-- BGH vs HISENSE -->
              <?php include 'modules_sources/BGH_VS_HISENSE.html'; ?>
+
+            
