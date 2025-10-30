@@ -1,4 +1,4 @@
-            <!-- Los grandotes de TCL  -->
+            <!-- Los grandotes  -->
             <?php include 'modules_sources/GRANDOTES_TCL/GRANDOTES_TCL.html'; ?>
 
             <!-- FORMATO IGUAL  -->
