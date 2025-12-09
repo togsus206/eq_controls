@@ -37,4 +37,5 @@
             <!-- BGH vs HISENSE -->
              <?php include 'modules_sources/BGH_VS_HISENSE.html'; ?>
 
-            
+            <!-- ADMIRAL VS RCA -->
+             <?php include 'modules_sources/ADMIRAL_VS_RCA.html'; ?>
