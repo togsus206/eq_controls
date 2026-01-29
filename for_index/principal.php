@@ -1,5 +1,8 @@
-<!-- NOHIS -->
+            <!-- NOHIS -->
             <?php include 'modules_sources/nohis/nohis.html'; ?>
+
+            <!-- LG  -->
+            <?php include 'modules_sources/LG.html'; ?>
 
             <!-- NOHIS CON VOZ-->
             <?php include 'modules_sources/nohis_con_voz.html'; ?> 
@@ -23,9 +26,6 @@
 
             <!-- Samsung -->
             <?php include 'modules_sources/SAMSUNG/SAMSUNG.html'; ?>            
-
-            <!-- LG  -->
-            <?php include 'modules_sources/LG.html'; ?>
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include 'modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
@@ -87,7 +87,6 @@
             <!-- KANJI  -->
             <?php include 'modules_sources/kanji.html'; ?>
             
-
             <!-- ENOVA  -->
             <?php include 'modules_sources/enova.html'; ?>
 
