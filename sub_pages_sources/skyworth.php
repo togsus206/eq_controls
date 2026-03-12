@@ -27,12 +27,10 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
+            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO  - HISENSE - TOP-HOUSE - SKYWORTH -->
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+
             
-            <!-- SKYWORTH -->
-            <?php include '../modules_sources/skyworth/skyworth.html'; ?>
-
-
-
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
             <!-- FORMATO IGUAL  -->

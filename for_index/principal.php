@@ -10,9 +10,6 @@
             <!-- KEN BROWN -->
             <?php include 'modules_sources/ken_b/ken_b.html'; ?>
 
-            <!-- SKYWORTH -->
-            <?php include 'modules_sources/skyworth/skyworth.html'; ?>
-
             <!-- PHILIPS -->
             <?php include 'modules_sources/Philips/Philips.html'; ?>
 

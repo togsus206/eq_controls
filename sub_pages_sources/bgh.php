@@ -40,7 +40,7 @@
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
-            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
+            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO  - HISENSE - TOP-HOUSE - SKYWORTH -->
             <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
 
@@ -56,8 +56,8 @@
             <!-- TELEFUNKEN: 1532 VS 721  -->
             <?php include '../modules_sources/1532_vs_721.html'; ?>
 
-            <!-- BGH vs HISENSE -->
-             <?php include '../modules_sources/BGH_VS_HISENSE.html'; ?>
+            <!-- FORMATO IGUAL  -->
+            <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
 
 
         </main>

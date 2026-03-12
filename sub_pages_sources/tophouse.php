@@ -30,12 +30,15 @@
             <!-- ILO - SANYO - TOPHOUSE -->
             <?php include '../modules_sources/ilo.html'; ?>
 
+            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO  - HISENSE - TOP-HOUSE  -->
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
-            <!-- BGH vs HISENSE -->
-             <?php include '../modules_sources/BGH_VS_HISENSE.html'; ?>
+            <!-- FORMATO IGUAL  -->
+            <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
 
         </main>
         

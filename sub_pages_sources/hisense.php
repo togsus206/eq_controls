@@ -40,6 +40,9 @@
             <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
             <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
 
+            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO  - HISENSE - TOP-HOUSE  -->
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
@@ -49,8 +52,9 @@
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
 
-            <!-- BGH vs HISENSE -->
-             <?php include '../modules_sources/BGH_VS_HISENSE.html'; ?>
+            <!-- FORMATO IGUAL  -->
+            <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
+
 
         </main>
         <footer class="text-center mt-8">
