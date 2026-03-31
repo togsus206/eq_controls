@@ -69,7 +69,7 @@
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
             <?php include 'modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
 
-            <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
+            <!-- Noblex – Sanyo – Sansei – Hisense – Admiral - Tedge -->
             <?php include 'modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
 
             <!-- CROWN MUSTANG -->
@@ -98,4 +98,9 @@
 
             <!-- AOC CON ROKU TV -->
             <?php include 'modules_sources/AOC_ROKU_TV.html'; ?>
+
+            <!-- NOBLEX -  PHILCO -->
+            <?php include 'modules_sources/NOBLEX_PHILCO.html'; ?>
+
+
 

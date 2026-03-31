@@ -26,42 +26,17 @@
         <main>
 
             <?php include '../addons_sources/navbar.html'; ?>
+
             
-            <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
-
-            <!-- ONN - RCA - PHILCO - SANYO  -->
-            <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>
-
-            <!-- PHILCO - JVC -NOBLEX - SANYO  -->
-            <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
-
-            <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
-
-            <!-- NOHIS -->
-            <?php include '../modules_sources/nohis/nohis.html'; ?>
-
-            <!-- NOBLEX - HITACHI- SANYO -JVC - PHILCO  -->
-            <?php include '../modules_sources/NOBLEX-HITACHI-SANYO-JVC-PHILCO.html'; ?>
-
-            <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
-            <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
-
-            <!-- NOBLEX -  PHILCO -->
-            <?php include '../modules_sources/NOBLEX_PHILCO.html'; ?>
-
+            <!-- Noblex – Sanyo – Sansei – Hisense – Admiral - Tedge -->
+            <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
+            
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
-            <!-- SAMSUNG VS HYUNDAI  -->
-            <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
-
-
             <!-- AMBOS NOHIS, PERO NO  -->
             <?php include '../modules_sources/nohis_but_no.html'; ?>
-
 
         </main>
         
