@@ -2,6 +2,20 @@
 const NavBar = {
     scrollInterval: null,
     
+    
+    //Deslizar el navbar con la rueda del mouse
+    setupMouseWheelHandler: function() {
+      const navContainer = document.getElementById('nav-container');
+      if (!navContainer) return;
+
+      navContainer.addEventListener('wheel', (evt) => {
+        // Evita que la página suba o baje mientras scrolleas sobre la barra
+        evt.preventDefault();
+        // Convierte el scroll vertical de la rueda en horizontal
+        navContainer.scrollLeft += evt.deltaY;
+      }, { passive: false }); // 'passive: false' es necesario para que preventDefault() funcione
+    },
+    
     // Funciones principales
     startScroll: function(direction) {
       const navContainer = document.getElementById('nav-container');
@@ -74,6 +88,7 @@ const NavBar = {
     // Función de inicialización para configurar todo
     init: function() {
       this.setupLinkClickHandlers();
+      this.setupMouseWheelHandler();
       this.checkForMainPage();
       
       // Restaurar posición de scroll y actualizar enlaces activos inmediatamente
