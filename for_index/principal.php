@@ -12,11 +12,6 @@
 
             <!-- PHILIPS -->
             <?php include 'modules_sources/Philips/Philips.html'; ?>
-
-
-            <!-- PHILIPS -->
-            <?php include 'modules_sources/PHILIPS_2/PHILIPS_2.html'; ?>
-            
             
             <!-- PHILIPS TUBO -->
             <?php include 'modules_sources/PHILIPS_TUBO/PHILIPS_TUBO.html'; ?>  
