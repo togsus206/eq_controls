@@ -36,3 +36,6 @@
 
             <!-- ADMIRAL VS RCA -->
              <?php include 'modules_sources/ADMIRAL_VS_RCA.html'; ?>
+
+            <!-- DAIHATSU VS CANDY -->
+            <?php include 'modules_sources/daihatsu_vs_candy.html'; ?>
