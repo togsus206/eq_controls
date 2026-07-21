@@ -97,5 +97,8 @@
             <!-- NOBLEX -  PHILCO -->
             <?php include 'modules_sources/NOBLEX_PHILCO.html'; ?>
 
+            <!-- NOBLEX -  PHILCO - MOTOROLA -->
+            <?php include '../modules_sources/motorola_noblex_philco.html'; ?>
+
 
 
