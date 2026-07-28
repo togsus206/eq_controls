@@ -30,7 +30,7 @@
 
             
             <!-- DIRECTV  -->
-            <?php include '../modules_sources/DIRECTV/DIRECTV.html'; ?>
+            <?php include '../modules_sources/DIRECTV.html'; ?>
         </main>
         
         <footer class="text-center mt-8">

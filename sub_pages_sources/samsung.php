@@ -28,14 +28,14 @@
             <?php include '../addons_sources/navbar.html'; ?>
             
             <!-- Samsung -->
-            <?php include '../modules_sources/SAMSUNG/SAMSUNG.html'; ?>
+            <?php include '../modules_sources/SAMSUNG.html'; ?>
 
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
             <!-- SAMSUNG VS CROWN MUSTAND  -->
-            <?php include '../modules_sources/CROWN_SAMSUNG/CROWN_SAMSUNG.html'; ?>
+            <?php include '../modules_sources/CROWN_SAMSUNG.html'; ?>
 
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include '../modules_sources/sam_vs_hyundai.html'; ?>

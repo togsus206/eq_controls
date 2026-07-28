@@ -34,7 +34,7 @@
             <br/>
 
             <!-- SAMSUNG VS CROWN MUSTAND  -->
-            <?php include '../modules_sources/CROWN_SAMSUNG/CROWN_SAMSUNG.html'; ?>
+            <?php include '../modules_sources/CROWN_SAMSUNG.html'; ?>
 
 
         <footer class="text-center mt-8">

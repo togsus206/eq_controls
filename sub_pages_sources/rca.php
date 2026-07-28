@@ -32,7 +32,7 @@
             <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
             <!-- RCA -   -->
-            <?php include '../modules_sources/RCA/RCA.html'; ?>
+            <?php include '../modules_sources/RCA.html'; ?>
 
             <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI - MASTER GOLD -->
             <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>

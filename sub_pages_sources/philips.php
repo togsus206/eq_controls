@@ -29,10 +29,10 @@
 
             
             <!-- PHILIPS -->
-            <?php include '../modules_sources/Philips/Philips.html'; ?>
+            <?php include '../modules_sources/Philips.html'; ?>
             
             <!-- PHILIPS TUBO -->
-            <?php include '../modules_sources/PHILIPS_TUBO/PHILIPS_TUBO.html'; ?>
+            <?php include '../modules_sources/PHILIPS_TUBO.html'; ?>
 
         </main>
         

@@ -8,22 +8,22 @@
             <?php include 'modules_sources/nohis_con_voz.html'; ?> 
 
             <!-- KEN BROWN -->
-            <?php include 'modules_sources/ken_b/ken_b.html'; ?>
+            <?php include 'modules_sources/ken_b.html'; ?>
 
             <!-- PHILIPS -->
-            <?php include 'modules_sources/Philips/Philips.html'; ?>
+            <?php include 'modules_sources/Philips.html'; ?>
             
             <!-- PHILIPS TUBO -->
-            <?php include 'modules_sources/PHILIPS_TUBO/PHILIPS_TUBO.html'; ?>  
+            <?php include 'modules_sources/PHILIPS_TUBO.html'; ?>  
 
             <!-- Samsung -->
-            <?php include 'modules_sources/SAMSUNG/SAMSUNG.html'; ?>            
+            <?php include 'modules_sources/SAMSUNG.html'; ?>            
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include 'modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
             <!-- RCA -   -->
-            <?php include 'modules_sources/RCA/RCA.html'; ?>
+            <?php include 'modules_sources/RCA.html'; ?>
 
 
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
@@ -35,20 +35,20 @@
 
 
             <!-- SONY  -->
-            <?php include 'modules_sources/SONY/SONY.html'; ?>
+            <?php include 'modules_sources/SONY.html'; ?>
             
 
 
             <!-- DIRECTV  -->
-            <?php include 'modules_sources/DIRECTV/DIRECTV.html'; ?>
+            <?php include 'modules_sources/DIRECTV.html'; ?>
 
 
             <!-- PANASONIC  -->
-            <?php include 'modules_sources/PANASONIC/PANASONIC.html'; ?>
+            <?php include 'modules_sources/PANASONIC.html'; ?>
 
 
             <!-- TCL  -->
-            <?php include 'modules_sources/TCL/TCL.html'; ?>
+            <?php include 'modules_sources/TCL.html'; ?>
 
             
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
@@ -98,7 +98,10 @@
             <?php include 'modules_sources/NOBLEX_PHILCO.html'; ?>
 
             <!-- NOBLEX -  PHILCO - MOTOROLA -->
-            <?php include '../modules_sources/motorola_noblex_philco.html'; ?>
+            <?php include 'modules_sources/motorola_noblex_philco.html'; ?>
+
+            <!-- HITACHI  -->
+            <?php include 'modules_sources/HITACHI.html'; ?>
 
 
 

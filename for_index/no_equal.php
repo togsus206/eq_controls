@@ -8,7 +8,7 @@
             <?php include 'modules_sources/TELEFUNKEN_VS_ENOVA/TELEFUNKEN_VS_ENOVA.html'; ?>
 
             <!-- SAMSUNG VS CROWN MUSTAND  -->
-            <?php include 'modules_sources/CROWN_SAMSUNG/CROWN_SAMSUNG.html'; ?>
+            <?php include 'modules_sources/CROWN_SAMSUNG.html'; ?>
 
             <!-- TCL - RCA VS STELLHOME PANORAMIC  -->
             <?php include 'modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>

@@ -31,7 +31,7 @@
             <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
             <!-- TCL  -->
-            <?php include '../modules_sources/TCL/TCL.html'; ?>
+            <?php include '../modules_sources/TCL.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

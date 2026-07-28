@@ -37,6 +37,9 @@
             <!-- NOBLEX - HITACHI- SANYO -JVC - PHILCO  -->
             <?php include '../modules_sources/NOBLEX-HITACHI-SANYO-JVC-PHILCO.html'; ?>
 
+            <!-- HITACHI  -->
+            <?php include '../modules_sources/HITACHI.html'; ?>
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 

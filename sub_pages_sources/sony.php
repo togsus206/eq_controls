@@ -29,7 +29,7 @@
 
             
             <!-- SONY  -->
-            <?php include '../modules_sources/SONY/SONY.html'; ?>
+            <?php include '../modules_sources/SONY.html'; ?>
 
         </main>
 

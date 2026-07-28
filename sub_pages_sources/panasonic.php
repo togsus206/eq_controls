@@ -28,7 +28,7 @@
             <?php include '../addons_sources/navbar.html'; ?>
             
             <!-- PANASONIC  -->
-            <?php include '../modules_sources/PANASONIC/PANASONIC.html'; ?>
+            <?php include '../modules_sources/PANASONIC.html'; ?>
 
         </main>
         
