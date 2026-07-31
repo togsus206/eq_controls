@@ -35,7 +35,7 @@
             <?php include '../modules_sources/nohis_con_voz.html'; ?>
 
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->

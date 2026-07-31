@@ -41,7 +41,7 @@
             <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
 
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO  - HISENSE - TOP-HOUSE  -->
-            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

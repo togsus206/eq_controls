@@ -38,7 +38,7 @@
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->

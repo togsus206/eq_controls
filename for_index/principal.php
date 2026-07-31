@@ -27,7 +27,7 @@
 
 
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-            <?php include 'modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+            <?php include 'modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
 
             <!-- TELEFUNKEN - BGH - SMART LIFE  -->
@@ -76,6 +76,9 @@
             <!-- RCA - AIPA  -->
             <?php include 'modules_sources/RCA-AIPA.html'; ?>
 
+            <!-- RCA  -->
+            <?php include 'modules_sources/RCA_2.html'; ?>
+
             <!-- KANJI  -->
             <?php include 'modules_sources/kanji.html'; ?>
             
@@ -102,6 +105,8 @@
 
             <!-- HITACHI  -->
             <?php include 'modules_sources/HITACHI.html'; ?>
+
+            
 
 
 

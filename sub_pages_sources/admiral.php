@@ -31,7 +31,7 @@
             <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
             <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
             <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>

@@ -32,7 +32,7 @@
             <?php include '../modules_sources/ken_b.html'; ?>
 
              <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-             <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+             <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
 
             <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI -->
