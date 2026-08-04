@@ -34,8 +34,8 @@
             <!-- RCA -   -->
             <?php include '../modules_sources/RCA.html'; ?>
 
-            <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI - MASTER GOLD -->
-            <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
+            <!-- NOHIS -->
+            <?php include '../modules_sources/nohis/nohis.html'; ?>
 
             <!-- ONN - RCA - PHILCO - SANYO  -->
             <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>

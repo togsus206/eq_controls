@@ -27,8 +27,6 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            <!-- DAEWOO - TONOMAC - KEN BROWN - RCA - NOBLEX - TCL - HITACHI - HYUNDAI -->
-            <?php include '../modules_sources/DAEWOO_TONOMAC_KENB_RCA_NOBLEX/DAEWOO_TONOMAC_KENB_RCA_NOBLEX.html'; ?>
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
