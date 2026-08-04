@@ -76,6 +76,9 @@
             <!-- FORMATO IGUAL  -->
             <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
 
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

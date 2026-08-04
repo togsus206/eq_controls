@@ -28,7 +28,7 @@
             <?php include '../addons_sources/navbar.html'; ?>
 
             <!-- TELEFUNKEN - BGH   -->
-            <?php include '../modules_sources/TELEFUNKEN-BGH/TELEFUNKEN-BGH.html'; ?>
+            <?php include '../modules_sources/TELEFUNKEN-BGH.html'; ?>
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
@@ -38,7 +38,7 @@
             <br/>
 
             <!-- TELEFUNEN VS ENOVA  -->
-            <?php include '../modules_sources/TELEFUNKEN_VS_ENOVA/TELEFUNKEN_VS_ENOVA.html'; ?>
+            <?php include '../modules_sources/TELEFUNKEN_VS_ENOVA.html'; ?>
 
             <!-- TELEFUNKEN: 1532 VS 721  -->
             <?php include '../modules_sources/1532_vs_721.html'; ?>

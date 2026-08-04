@@ -27,7 +27,7 @@
         <?php include '../addons_sources/navbar.html'; ?>
 
             <!-- TELEFUNKEN - BGH   -->
-            <?php include '../modules_sources/TELEFUNKEN-BGH/TELEFUNKEN-BGH.html'; ?>
+            <?php include '../modules_sources/TELEFUNKEN-BGH.html'; ?>
             
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>

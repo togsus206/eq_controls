@@ -46,6 +46,9 @@
             <!-- TCL - RCA VS STEELHOME PANORAMIC  -->
             <?php include '../modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>
 
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

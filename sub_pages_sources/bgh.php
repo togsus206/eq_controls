@@ -35,7 +35,7 @@
             <?php include '../modules_sources/nohis_con_voz.html'; ?>
 
             <!-- TELEFUNKEN - BGH   -->
-            <?php include '../modules_sources/TELEFUNKEN-BGH/TELEFUNKEN-BGH.html'; ?>
+            <?php include '../modules_sources/TELEFUNKEN-BGH.html'; ?>
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
@@ -58,6 +58,9 @@
 
             <!-- FORMATO IGUAL  -->
             <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
+
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
 
 
         </main>

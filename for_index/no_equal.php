@@ -1,11 +1,11 @@
             <!-- Los grandotes  -->
-            <?php include 'modules_sources/GRANDOTES_TCL/GRANDOTES_TCL.html'; ?>
+            <?php include 'modules_sources/GRANDOTES_TCL.html'; ?>
 
             <!-- FORMATO IGUAL  -->
             <?php include 'modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
 
             <!-- TELEFUNEN VS ENOVA  -->
-            <?php include 'modules_sources/TELEFUNKEN_VS_ENOVA/TELEFUNKEN_VS_ENOVA.html'; ?>
+            <?php include 'modules_sources/TELEFUNKEN_VS_ENOVA.html'; ?>
 
             <!-- SAMSUNG VS CROWN MUSTAND  -->
             <?php include 'modules_sources/CROWN_SAMSUNG.html'; ?>

@@ -31,7 +31,7 @@
 
 
             <!-- TELEFUNKEN - BGH - SMART LIFE  -->
-            <?php include 'modules_sources/TELEFUNKEN-BGH/TELEFUNKEN-BGH.html'; ?>
+            <?php include 'modules_sources/TELEFUNKEN-BGH.html'; ?>
 
 
             <!-- SONY  -->

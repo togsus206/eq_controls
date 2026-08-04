@@ -34,6 +34,12 @@
             <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
             <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
 
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
+            <br/>
+
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
 
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>

@@ -40,6 +40,9 @@
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
 
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

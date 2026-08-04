@@ -43,7 +43,7 @@
             <?php include '../modules_sources/1532_vs_721.html'; ?>
 
             <!-- Los grandotes  -->
-            <?php include '../modules_sources/GRANDOTES_TCL/GRANDOTES_TCL.html'; ?>
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
 
 
         <footer class="text-center mt-8">

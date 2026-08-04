@@ -58,6 +58,9 @@
             <!-- ADMIRAL VS RCA -->
             <?php include '../modules_sources/ADMIRAL_VS_RCA.html'; ?>
 
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

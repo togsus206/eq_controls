@@ -40,6 +40,9 @@
             <!-- TELEFUNKEN: 1532 VS 721  -->
             <?php include '../modules_sources/1532_vs_721.html'; ?>
 
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
         </main>
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>

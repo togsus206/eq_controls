@@ -34,7 +34,7 @@
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
             <!-- TELEFUNEN VS ENOVA  -->
-            <?php include '../modules_sources/TELEFUNKEN_VS_ENOVA/TELEFUNKEN_VS_ENOVA.html'; ?>
+            <?php include '../modules_sources/TELEFUNKEN_VS_ENOVA.html'; ?>
 
         </main>
 

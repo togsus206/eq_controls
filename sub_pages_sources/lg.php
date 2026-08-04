@@ -40,6 +40,9 @@
             <!-- LG vs SAMSUNG  -->
             <?php include '../modules_sources/LGvsSAM.html'; ?>
 
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

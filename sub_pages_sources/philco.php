@@ -65,6 +65,9 @@
             <!-- AMBOS NOHIS, PERO NO  -->
             <?php include '../modules_sources/nohis_but_no.html'; ?>
 
+            <!-- Los grandotes  -->
+            <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
 
         </main>
         
