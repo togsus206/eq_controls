@@ -41,7 +41,7 @@
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
             <!-- FORMATO IGUAL  -->
-            <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
+            <?php include '../modules_sources/FORMATO_IGUAL.html'; ?>
 
             <!-- Los grandotes  -->
             <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>

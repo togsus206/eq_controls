@@ -2,7 +2,7 @@
             <?php include 'modules_sources/GRANDOTES_TCL.html'; ?>
 
             <!-- FORMATO IGUAL  -->
-            <?php include 'modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
+            <?php include 'modules_sources/FORMATO_IGUAL.html'; ?>
 
             <!-- TELEFUNEN VS ENOVA  -->
             <?php include 'modules_sources/TELEFUNKEN_VS_ENOVA.html'; ?>

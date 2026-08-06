@@ -49,7 +49,7 @@
              <?php include '../modules_sources/ADMIRAL_VS_RCA.html'; ?>
 
             <!-- FORMATO IGUAL  -->
-            <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
+            <?php include '../modules_sources/FORMATO_IGUAL.html'; ?>
 
         </main>
         

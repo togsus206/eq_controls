@@ -74,7 +74,7 @@
             <?php include '../modules_sources/606_vs_680.html'; ?>
 
             <!-- FORMATO IGUAL  -->
-            <?php include '../modules_sources/FORMATO_IGUAL/FORMATO_IGUAL.html'; ?>
+            <?php include '../modules_sources/FORMATO_IGUAL.html'; ?>
 
             <!-- Los grandotes  -->
             <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
