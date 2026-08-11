@@ -73,14 +73,14 @@
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
 
-            <!-- NOBLEX - SANYO - ADMIRAL VS TELEFUNKEN   -->
-            <?php include '../modules_sources/676_vs_724.html'; ?>
-
             <!-- FORMATO IGUAL  -->
             <?php include '../modules_sources/FORMATO_IGUAL.html'; ?>
 
             <!-- Los grandotes  -->
             <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
+
+            <!-- NOBLEX VS SANYO -->
+            <?php include '../modules_sources/noblex_vs_sanyo.html'; ?>
 
         </main>
         <footer class="text-center mt-8">

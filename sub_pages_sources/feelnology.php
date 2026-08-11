@@ -20,33 +20,27 @@
         </header>
 
         <?php include '../addons_sources/disclaimer.html'; ?>
-    
+        
         <br/><br/><br/>
 
         <main>
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            <!-- TELEFUNKEN - BGH   -->
-            <?php include '../modules_sources/TELEFUNKEN-BGH.html'; ?>
-
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
-            
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
-
-            <!-- TELEFUNEN VS ENOVA  -->
-            <?php include '../modules_sources/TELEFUNKEN_VS_ENOVA.html'; ?>
-
-            <!-- TELEFUNKEN: 1532 VS 721  -->
-            <?php include '../modules_sources/1532_vs_721.html'; ?>
 
             <!-- NOBLEX VS SANYO -->
             <?php include '../modules_sources/noblex_vs_sanyo.html'; ?>
 
 
+
+        </main>
+        
         <footer class="text-center mt-8">
             <p>PARA CUALQUIER SUGERENCIA:</p>
             <br/>

@@ -42,9 +42,6 @@
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
-            <!-- NOBLEX - SANYO - ADMIRAL VS TELEFUNKEN   -->
-            <?php include '../modules_sources/676_vs_724.html'; ?>
-
             <!-- ADMIRAL VS RCA -->
              <?php include '../modules_sources/ADMIRAL_VS_RCA.html'; ?>
 

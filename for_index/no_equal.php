@@ -31,11 +31,11 @@
             <!-- TELEFUNKEN: 1532 VS 721  -->
             <?php include 'modules_sources/1532_vs_721.html'; ?>
 
-            <!-- NOBLEX - SANYO - ADMIRAL VS TELEFUNKEN   -->
-            <?php include 'modules_sources/676_vs_724.html'; ?>
-
             <!-- ADMIRAL VS RCA -->
              <?php include 'modules_sources/ADMIRAL_VS_RCA.html'; ?>
 
             <!-- DAIHATSU VS CANDY -->
             <?php include 'modules_sources/daihatsu_vs_candy.html'; ?>
+
+            <!-- NOBLEX VS SANYO -->
+            <?php include 'modules_sources/noblex_vs_sanyo.html'; ?>

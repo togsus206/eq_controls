@@ -51,6 +51,9 @@
             <!-- Los grandotes  -->
             <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
 
+            <!-- NOBLEX VS SANYO -->
+            <?php include '../modules_sources/noblex_vs_sanyo.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">
