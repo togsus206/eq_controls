@@ -20,7 +20,7 @@
             <?php include 'modules_sources/SAMSUNG.html'; ?>            
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <?php include 'modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
+            <?php include 'modules_sources/RCA-TCL-HITACHI.html'; ?>
 
             <!-- RCA - ONN - PHILCO - HYUNDAI -->
             <?php include 'modules_sources/1596-1907.html'; ?>
