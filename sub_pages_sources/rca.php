@@ -29,7 +29,7 @@
 
             
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
+            <?php include '../modules_sources/RCA-TCL-HITACHI.html'; ?>
 
             <!-- RCA -   -->
             <?php include '../modules_sources/RCA.html'; ?>
@@ -45,6 +45,9 @@
 
             <!-- RCA  -->
             <?php include '../modules_sources/RCA_2.html'; ?>
+
+            <!-- RCA - ONN - PHILCO - HYUNDAI -->
+            <?php include '../modules_sources/1596-1907.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

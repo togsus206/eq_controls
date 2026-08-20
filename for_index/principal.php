@@ -22,6 +22,9 @@
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include 'modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
 
+            <!-- RCA - ONN - PHILCO - HYUNDAI -->
+            <?php include 'modules_sources/1596-1907.html'; ?>
+
             <!-- RCA -   -->
             <?php include 'modules_sources/RCA.html'; ?>
 
@@ -45,10 +48,6 @@
 
             <!-- PANASONIC  -->
             <?php include 'modules_sources/PANASONIC.html'; ?>
-
-
-            <!-- TCL  -->
-            <?php include 'modules_sources/TCL.html'; ?>
 
             
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
@@ -102,6 +101,8 @@
 
             <!-- HITACHI  -->
             <?php include 'modules_sources/HITACHI.html'; ?>
+
+
 
             
 

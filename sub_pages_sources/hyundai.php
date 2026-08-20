@@ -29,10 +29,13 @@
 
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
-            <?php include '../modules_sources/RCA-TCL-HITACHI/RCA-TCL-HITACHI.html'; ?>
+            <?php include '../modules_sources/RCA-TCL-HITACHI.html'; ?>
 
             <!-- NOHIS -->
             <?php include '../modules_sources/nohis/nohis.html'; ?>
+
+            <!-- RCA - ONN - PHILCO - HYUNDAI -->
+            <?php include '../modules_sources/1596-1907.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
