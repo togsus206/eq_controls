@@ -37,9 +37,6 @@
             <!-- NOHIS -->
             <?php include '../modules_sources/nohis/nohis.html'; ?>
 
-            <!-- ONN - RCA - PHILCO - SANYO  -->
-            <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>
-
             <!-- RCA - AIPA  -->
             <?php include '../modules_sources/RCA-AIPA.html'; ?>
 

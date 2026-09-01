@@ -44,9 +44,6 @@
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
-            <!-- ONN - RCA - PHILCO - SANYO  -->
-            <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>
-
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
             <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
 
@@ -61,6 +58,9 @@
 
             <!-- ILO - SANYO - TOPHOUSE -->
             <?php include '../modules_sources/ilo.html'; ?>
+
+            <!-- RCA - ONN - PHILCO - HYUNDAI -->
+            <?php include '../modules_sources/1596-1907.html'; ?>
 
             
 

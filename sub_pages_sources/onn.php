@@ -27,9 +27,6 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            <!-- ONN - RCA - PHILCO - SANYO  -->
-            <?php include '../modules_sources/onn_rca_philco_sanyo.html'; ?>
-
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
