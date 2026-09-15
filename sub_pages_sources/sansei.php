@@ -34,6 +34,9 @@
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
+            <!-- NOBLEX VS BGH -->
+            <?php include '../modules_sources/1688_vs_1536_alt.html'; ?>
+
 
         </main>
         <footer class="text-center mt-8">

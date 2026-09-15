@@ -35,14 +35,11 @@
             <?php include '../modules_sources/nohis_con_voz.html'; ?>
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
+            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
             <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
-
-            <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
             <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
@@ -81,6 +78,9 @@
 
             <!-- NOBLEX VS SANYO -->
             <?php include '../modules_sources/noblex_vs_sanyo.html'; ?>
+
+            <!-- NOBLEX VS BGH -->
+            <?php include '../modules_sources/1688_vs_1536_alt.html'; ?>
 
         </main>
         <footer class="text-center mt-8">

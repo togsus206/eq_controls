@@ -35,7 +35,7 @@
             <?php include '../modules_sources/nohis_con_voz.html'; ?>
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
+            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
             <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
             <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
@@ -60,6 +60,9 @@
 
             <!-- NOBLEX VS SANYO -->
             <?php include '../modules_sources/noblex_vs_sanyo.html'; ?>
+
+            <!-- NOBLEX VS BGH -->
+            <?php include '../modules_sources/1688_vs_1536_alt.html'; ?>
 
         </main>
         <footer class="text-center mt-8">

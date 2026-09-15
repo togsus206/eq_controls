@@ -39,3 +39,6 @@
 
             <!-- NOBLEX VS SANYO -->
             <?php include 'modules_sources/noblex_vs_sanyo.html'; ?>
+
+            <!-- NOBLEX VS BGH -->
+            <?php include 'modules_sources/1688_vs_1536_alt.html'; ?>

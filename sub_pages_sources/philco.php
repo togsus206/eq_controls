@@ -28,7 +28,7 @@
             <?php include '../addons_sources/navbar.html'; ?>
             
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
+            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
             <!-- PHILCO - JVC -NOBLEX - SANYO  -->
             <?php include '../modules_sources/PHILCO-JVC-NOBLEX-SANYO.html'; ?>
@@ -53,6 +53,9 @@
 
             <!-- RCA - ONN - PHILCO - HYUNDAI -->
             <?php include '../modules_sources/1596-1907.html'; ?>
+
+            <!-- Noblex – Sanyo – Sansei – Hisense – Admiral  -->
+            <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
 
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>

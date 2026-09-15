@@ -46,6 +46,9 @@
             <!-- Los grandotes  -->
             <?php include '../modules_sources/GRANDOTES_TCL.html'; ?>
 
+            <!-- NOBLEX VS BGH -->
+            <?php include '../modules_sources/1688_vs_1536_alt.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

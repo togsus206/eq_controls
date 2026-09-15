@@ -31,7 +31,7 @@
             <?php include '../modules_sources/nohis/nohis.html'; ?>
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
+            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
             <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
             <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>

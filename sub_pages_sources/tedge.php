@@ -38,6 +38,9 @@
             <!-- AMBOS NOHIS, PERO NO  -->
             <?php include '../modules_sources/nohis_but_no.html'; ?>
 
+            <!-- NOBLEX VS BGH -->
+            <?php include '../modules_sources/1688_vs_1536_alt.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">

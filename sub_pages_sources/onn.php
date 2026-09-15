@@ -28,7 +28,7 @@
             <?php include '../addons_sources/navbar.html'; ?>
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
-            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
+            <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include '../modules_sources/RCA-TCL-HITACHI.html'; ?>
