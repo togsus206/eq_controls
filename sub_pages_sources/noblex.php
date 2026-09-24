@@ -29,7 +29,7 @@
 
             
             <!-- NOHIS -->
-            <?php include '../modules_sources/nohis/nohis.html'; ?>
+            <?php include '../modules_sources/nohis.html'; ?>
 
             <!-- NOHIS CON VOZ-->
             <?php include '../modules_sources/nohis_con_voz.html'; ?>

@@ -32,7 +32,7 @@
             <?php include '../modules_sources/RCA-TCL-HITACHI.html'; ?>
 
             <!-- NOHIS -->
-            <?php include '../modules_sources/nohis/nohis.html'; ?>
+            <?php include '../modules_sources/nohis.html'; ?>
 
             <!-- RCA - ONN - PHILCO - HYUNDAI -->
             <?php include '../modules_sources/1596-1907.html'; ?>

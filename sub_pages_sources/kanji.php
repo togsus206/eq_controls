@@ -28,8 +28,14 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            <!-- KANJI  -->
+            <!-- KANJI - CROWN MUSTANG  -->
             <?php include '../modules_sources/kanji.html'; ?>
+
+            <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
+            <br/>
+
+            <!-- Kanji vs Eco Power -->
+            <?php include '../modules_sources/1504_VS_eco_power.html'; ?>
 
         </main>
                     

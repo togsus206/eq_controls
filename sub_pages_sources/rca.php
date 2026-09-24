@@ -35,7 +35,7 @@
             <?php include '../modules_sources/RCA.html'; ?>
 
             <!-- NOHIS -->
-            <?php include '../modules_sources/nohis/nohis.html'; ?>
+            <?php include '../modules_sources/nohis.html'; ?>
 
             <!-- RCA - AIPA  -->
             <?php include '../modules_sources/RCA-AIPA.html'; ?>

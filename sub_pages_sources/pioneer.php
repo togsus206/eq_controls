@@ -30,7 +30,7 @@
             <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
 
             <!-- NOHIS -->
-            <?php include '../modules_sources/nohis/nohis.html'; ?>
+            <?php include '../modules_sources/nohis.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

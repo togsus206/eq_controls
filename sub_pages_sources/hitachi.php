@@ -32,7 +32,7 @@
             <?php include '../modules_sources/RCA-TCL-HITACHI.html'; ?>
 
             <!-- NOHIS -->
-            <?php include '../modules_sources/nohis/nohis.html'; ?>
+            <?php include '../modules_sources/nohis.html'; ?>
 
             <!-- NOBLEX - HITACHI- SANYO -JVC - PHILCO  -->
             <?php include '../modules_sources/NOBLEX-HITACHI-SANYO-JVC-PHILCO.html'; ?>

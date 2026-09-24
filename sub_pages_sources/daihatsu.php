@@ -26,6 +26,9 @@
 
         <?php include '../addons_sources/navbar.html'; ?>
 
+            <!-- Noblex – Sanyo – Sansei – Hisense – Admiral - Tedge -->
+            <?php include '../modules_sources/Noblex–Sanyo–Sansei–Hisense.html'; ?>
+
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

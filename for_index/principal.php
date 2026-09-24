@@ -1,5 +1,5 @@
             <!-- NOHIS -->
-            <?php include 'modules_sources/nohis/nohis.html'; ?>
+            <?php include 'modules_sources/nohis.html'; ?>
 
             <!-- LG  -->
             <?php include 'modules_sources/LG.html'; ?>
@@ -99,6 +99,8 @@
             <!-- HITACHI  -->
             <?php include 'modules_sources/HITACHI.html'; ?>
 
+            <!-- AOC  -->
+            <?php include 'modules_sources/AOC_1363.html'; ?>
 
 
             

@@ -28,7 +28,7 @@
 
             
             <!-- NOHIS -->
-            <?php include '../modules_sources/nohis/nohis.html'; ?>
+            <?php include '../modules_sources/nohis.html'; ?>
 
             <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
             <?php include '../modules_sources/Sanyo_noblex_bgh_jvc_hisense.html'; ?>

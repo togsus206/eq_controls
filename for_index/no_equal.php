@@ -42,3 +42,6 @@
 
             <!-- NOBLEX VS BGH -->
             <?php include 'modules_sources/1688_vs_1536_alt.html'; ?>
+
+            <!-- Kanji vs Eco Power -->
+            <?php include 'modules_sources/1504_VS_eco_power.html'; ?>
