@@ -101,8 +101,10 @@
 
             <!-- AOC  -->
             <?php include 'modules_sources/AOC_1363.html'; ?>
+            
 
-
+            <!-- QUINT - HYUNDAI - PIONEER -DAEWOO - TONOMAC - KEN BROWN - RCA - HITACHI - MASTER GOLD - RECCO  -->
+            <?php include 'modules_sources/quint_hyundai_reeco.html'; ?>
             
 
 

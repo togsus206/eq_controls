@@ -29,6 +29,9 @@
             <!-- NOBLEX- JVC - TONOMAC - ADMIRAL - PHILCO - SANYO - ILO - PIONEER  -->
             <?php include '../modules_sources/NOBLEX-JVC-TONOMAC-ADMIRAL-PHILCO-SANYO.html'; ?>
 
+            <!-- QUINT - HYUNDAI - PIONEER -DAEWOO - TONOMAC - KEN BROWN - RCA - HITACHI - MASTER GOLD - RECCO  -->
+            <?php include '../modules_sources/quint_hyundai_reeco.html'; ?>
+
             <!-- NOHIS -->
             <?php include '../modules_sources/nohis.html'; ?>
 

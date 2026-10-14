@@ -31,14 +31,14 @@
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include '../modules_sources/RCA-TCL-HITACHI.html'; ?>
 
-            <!-- NOHIS -->
-            <?php include '../modules_sources/nohis.html'; ?>
-
             <!-- NOBLEX - HITACHI- SANYO -JVC - PHILCO  -->
             <?php include '../modules_sources/NOBLEX-HITACHI-SANYO-JVC-PHILCO.html'; ?>
 
             <!-- HITACHI  -->
             <?php include '../modules_sources/HITACHI.html'; ?>
+
+            <!-- QUINT - HYUNDAI - PIONEER -DAEWOO - TONOMAC - KEN BROWN - RCA - HITACHI - MASTER GOLD - RECCO  -->
+            <?php include '../modules_sources/quint_hyundai_reeco.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

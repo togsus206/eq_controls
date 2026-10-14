@@ -27,6 +27,9 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
+            <!-- QUINT - HYUNDAI - PIONEER -DAEWOO - TONOMAC - KEN BROWN - RCA - HITACHI - MASTER GOLD - RECCO  -->
+            <?php include 'modules_sources/quint_hyundai_reeco.html'; ?>
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 

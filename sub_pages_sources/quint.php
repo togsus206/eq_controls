@@ -27,16 +27,11 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
-            
-            <!-- NOHIS -->
-            <?php include '../modules_sources/nohis.html'; ?>
-
+            <!-- QUINT - HYUNDAI - PIONEER -DAEWOO - TONOMAC - KEN BROWN - RCA - HITACHI - MASTER GOLD - RECCO  -->
+            <?php include '../modules_sources/quint_hyundai_reeco.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
-
-            <!-- AMBOS NOHIS, PERO NO  -->
-            <?php include '../modules_sources/nohis_but_no.html'; ?>
 
 
             <!-- SAMSUNG VS HYUNDAI  -->

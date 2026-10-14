@@ -31,12 +31,11 @@
             <!-- KEN BROWN -->
             <?php include '../modules_sources/ken_b.html'; ?>
 
-             <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
-             <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
+            <!-- ADMIRAL -  KEN BROWN - NOBLEX - SANYO   -->
+            <?php include '../modules_sources/ADMIRAL-KB-NOBLEX-SANYO.html'; ?>
 
-
-            <!-- NOHIS -->
-            <?php include '../modules_sources/nohis.html'; ?>
+            <!-- QUINT - HYUNDAI - PIONEER -DAEWOO - TONOMAC - KEN BROWN - RCA - HITACHI - MASTER GOLD - RECCO  -->
+            <?php include '../modules_sources/quint_hyundai_reeco.html'; ?>
 
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>

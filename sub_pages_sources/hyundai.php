@@ -27,12 +27,11 @@
 
             <?php include '../addons_sources/navbar.html'; ?>
 
+            <!-- QUINT - HYUNDAI - PIONEER -DAEWOO - TONOMAC - KEN BROWN - RCA - HITACHI - MASTER GOLD - RECCO  -->
+            <?php include '../modules_sources/quint_hyundai_reeco.html'; ?>
 
             <!-- RCA - TCL - HITACHI - ADMIRAL  -->
             <?php include '../modules_sources/RCA-TCL-HITACHI.html'; ?>
-
-            <!-- NOHIS -->
-            <?php include '../modules_sources/nohis.html'; ?>
 
             <!-- RCA - ONN - PHILCO - HYUNDAI -->
             <?php include '../modules_sources/1596-1907.html'; ?>
@@ -42,9 +41,6 @@
 
             <!-- SAMSUNG VS HYUNDAI  -->
             <?php include '../modules_sources/sam_vs_hyundai.html'; ?>
-
-            <!-- AMBOS NOHIS, PERO NO  -->
-            <?php include '../modules_sources/nohis_but_no.html'; ?>
 
             <!-- TCL - RCA VS STEELHOME PANORAMIC  -->
             <?php include '../modules_sources/RCA_TCL_VS_STEELHOME.html'; ?>
