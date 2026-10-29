@@ -105,7 +105,13 @@
 
             <!-- QUINT - HYUNDAI - PIONEER -DAEWOO - TONOMAC - KEN BROWN - RCA - HITACHI - MASTER GOLD - RECCO  -->
             <?php include 'modules_sources/quint_hyundai_reeco.html'; ?>
-            
+
+            <!-- KANJI - OYILITY - BIONICA-->
+            <?php include 'modules_sources/KANJI_OYILITY_BIONICA.html'; ?>
+
+            <!-- DALTON - VIEWSONIC - AUDINAC - CROWN MUSTANG  -->
+             <?php include 'modules_sources/dalton.html'; ?>
+    
 
 
 

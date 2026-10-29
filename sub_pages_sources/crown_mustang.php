@@ -33,6 +33,9 @@
             <!-- KANJI - CROWN MUSTANG  -->
             <?php include '../modules_sources/kanji.html'; ?>
 
+            <!-- DALTON - VIEWSONIC - AUDINAC - CROWN MUSTANG  -->
+             <?php include '../modules_sources/dalton.html'; ?>
+
             <h1 class="text-3xl font-bold custom-title">CONTROLES PARECIDOS PERO *NO EQUIVALENTES*</h1>
             <br/>
 
