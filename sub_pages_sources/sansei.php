@@ -37,6 +37,9 @@
             <!-- NOBLEX VS BGH -->
             <?php include '../modules_sources/1688_vs_1536_alt.html'; ?>
 
+            <!-- IGUALES, PERO DIFERENTES -->
+            <?php include '../modules_sources/726_VS_1752.html'; ?>
+
 
         </main>
         <footer class="text-center mt-8">

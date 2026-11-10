@@ -59,6 +59,9 @@
             <!-- NOBLEX VS SANYO -->
             <?php include '../modules_sources/noblex_vs_sanyo.html'; ?>
 
+            <!-- IGUALES, PERO DIFERENTES -->
+            <?php include '../modules_sources/726_VS_1752.html'; ?>
+
         </main>
         
         <footer class="text-center mt-8">
