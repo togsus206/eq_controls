@@ -7,6 +7,9 @@
             <!-- NOHIS CON VOZ-->
             <?php include 'modules_sources/nohis_con_voz.html'; ?> 
 
+            <!-- SANYO - NOBLEX - BGH - JVC - HISENSE  -->
+            <?php include 'modules_sources/Sanyo_noblex_bgh_jvc_hisense.html'; ?>
+
             <!-- KEN BROWN -->
             <?php include 'modules_sources/ken_b.html'; ?>
 

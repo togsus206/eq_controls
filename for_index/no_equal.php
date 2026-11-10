@@ -45,3 +45,6 @@
 
             <!-- Kanji vs Eco Power -->
             <?php include 'modules_sources/1504_VS_eco_power.html'; ?>
+
+            <!-- IGUALES, PERO DIFERENTES -->
+            <?php include 'modules_sources/726_VS_1752.html'; ?>
